@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "publicaciones": [
+    {
+      "informe": "pqrsdf",
+      "periodo": "2026-09",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2026-09.pdf",
+      "bytes": 1123534,
+      "paginas": 28,
+      "corte": "2026-09-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    }
+  ],
+  "actualizado_en": "2026-10-28T14:02:45-05:00"
+}
