@@ -14,7 +14,791 @@
       "corte": "2026-09-30",
       "actualizacion_id": 41,
       "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2026-08",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2026-08.pdf",
+      "bytes": 2339166,
+      "paginas": 43,
+      "corte": "2026-08-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2026-07",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2026-07.pdf",
+      "bytes": 2267305,
+      "paginas": 42,
+      "corte": "2026-07-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2026-06",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2026-06.pdf",
+      "bytes": 2198662,
+      "paginas": 43,
+      "corte": "2026-06-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2026-05",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2026-05.pdf",
+      "bytes": 2138666,
+      "paginas": 44,
+      "corte": "2026-05-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2026-04",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2026-04.pdf",
+      "bytes": 2069427,
+      "paginas": 43,
+      "corte": "2026-04-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2026-03",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2026-03.pdf",
+      "bytes": 2000456,
+      "paginas": 44,
+      "corte": "2026-03-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2026-02",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2026-02.pdf",
+      "bytes": 1942771,
+      "paginas": 44,
+      "corte": "2026-02-28",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2026-01",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2026-01.pdf",
+      "bytes": 1798805,
+      "paginas": 43,
+      "corte": "2026-01-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2025-12",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2025-12.pdf",
+      "bytes": 2311887,
+      "paginas": 42,
+      "corte": "2025-12-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2025-11",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2025-11.pdf",
+      "bytes": 2290004,
+      "paginas": 42,
+      "corte": "2025-11-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2025-10",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2025-10.pdf",
+      "bytes": 2271130,
+      "paginas": 42,
+      "corte": "2025-10-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2025-09",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2025-09.pdf",
+      "bytes": 2236515,
+      "paginas": 42,
+      "corte": "2025-09-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2025-08",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2025-08.pdf",
+      "bytes": 2224183,
+      "paginas": 41,
+      "corte": "2025-08-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2025-07",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2025-07.pdf",
+      "bytes": 2180751,
+      "paginas": 41,
+      "corte": "2025-07-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2025-06",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2025-06.pdf",
+      "bytes": 2116461,
+      "paginas": 41,
+      "corte": "2025-06-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2025-05",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2025-05.pdf",
+      "bytes": 2066209,
+      "paginas": 42,
+      "corte": "2025-05-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2025-04",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2025-04.pdf",
+      "bytes": 2029120,
+      "paginas": 42,
+      "corte": "2025-04-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2025-03",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2025-03.pdf",
+      "bytes": 1973453,
+      "paginas": 42,
+      "corte": "2025-03-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2025-02",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2025-02.pdf",
+      "bytes": 1906835,
+      "paginas": 42,
+      "corte": "2025-02-28",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2025-01",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2025-01.pdf",
+      "bytes": 1738796,
+      "paginas": 42,
+      "corte": "2025-01-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2024-12",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2024-12.pdf",
+      "bytes": 2248420,
+      "paginas": 41,
+      "corte": "2024-12-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2024-11",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2024-11.pdf",
+      "bytes": 2216979,
+      "paginas": 42,
+      "corte": "2024-11-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2024-10",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2024-10.pdf",
+      "bytes": 2174347,
+      "paginas": 41,
+      "corte": "2024-10-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2024-09",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2024-09.pdf",
+      "bytes": 2144352,
+      "paginas": 42,
+      "corte": "2024-09-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2024-08",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2024-08.pdf",
+      "bytes": 2155593,
+      "paginas": 42,
+      "corte": "2024-08-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2024-07",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2024-07.pdf",
+      "bytes": 2106510,
+      "paginas": 42,
+      "corte": "2024-07-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2024-06",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2024-06.pdf",
+      "bytes": 2078465,
+      "paginas": 42,
+      "corte": "2024-06-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2024-05",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2024-05.pdf",
+      "bytes": 2023258,
+      "paginas": 42,
+      "corte": "2024-05-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2024-04",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2024-04.pdf",
+      "bytes": 1980076,
+      "paginas": 41,
+      "corte": "2024-04-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2024-03",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2024-03.pdf",
+      "bytes": 1916733,
+      "paginas": 41,
+      "corte": "2024-03-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2024-02",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2024-02.pdf",
+      "bytes": 1853417,
+      "paginas": 41,
+      "corte": "2024-02-29",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2024-01",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2024-01.pdf",
+      "bytes": 1699311,
+      "paginas": 41,
+      "corte": "2024-01-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2023-12",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2023-12.pdf",
+      "bytes": 2082083,
+      "paginas": 40,
+      "corte": "2023-12-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2023-11",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2023-11.pdf",
+      "bytes": 2080642,
+      "paginas": 41,
+      "corte": "2023-11-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2023-10",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2023-10.pdf",
+      "bytes": 2070810,
+      "paginas": 40,
+      "corte": "2023-10-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2023-09",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2023-09.pdf",
+      "bytes": 2028984,
+      "paginas": 41,
+      "corte": "2023-09-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2023-08",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2023-08.pdf",
+      "bytes": 2035444,
+      "paginas": 40,
+      "corte": "2023-08-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2023-07",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2023-07.pdf",
+      "bytes": 2004712,
+      "paginas": 41,
+      "corte": "2023-07-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2023-06",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2023-06.pdf",
+      "bytes": 1959254,
+      "paginas": 41,
+      "corte": "2023-06-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2023-05",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2023-05.pdf",
+      "bytes": 1957652,
+      "paginas": 41,
+      "corte": "2023-05-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2023-04",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2023-04.pdf",
+      "bytes": 1888234,
+      "paginas": 40,
+      "corte": "2023-04-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2023-03",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2023-03.pdf",
+      "bytes": 1831342,
+      "paginas": 41,
+      "corte": "2023-03-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2023-02",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2023-02.pdf",
+      "bytes": 1756468,
+      "paginas": 40,
+      "corte": "2023-02-28",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2023-01",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2023-01.pdf",
+      "bytes": 1640871,
+      "paginas": 40,
+      "corte": "2023-01-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2022-12",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2022-12.pdf",
+      "bytes": 1956613,
+      "paginas": 39,
+      "corte": "2022-12-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2022-11",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2022-11.pdf",
+      "bytes": 1933065,
+      "paginas": 39,
+      "corte": "2022-11-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2022-10",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2022-10.pdf",
+      "bytes": 1896199,
+      "paginas": 39,
+      "corte": "2022-10-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2022-09",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2022-09.pdf",
+      "bytes": 1834478,
+      "paginas": 38,
+      "corte": "2022-09-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2022-08",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2022-08.pdf",
+      "bytes": 1839253,
+      "paginas": 38,
+      "corte": "2022-08-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2022-07",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2022-07.pdf",
+      "bytes": 1744239,
+      "paginas": 39,
+      "corte": "2022-07-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2022-06",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2022-06.pdf",
+      "bytes": 1674697,
+      "paginas": 38,
+      "corte": "2022-06-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2022-05",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2022-05.pdf",
+      "bytes": 1602378,
+      "paginas": 38,
+      "corte": "2022-05-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2022-04",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2022-04.pdf",
+      "bytes": 1527216,
+      "paginas": 38,
+      "corte": "2022-04-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2022-03",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2022-03.pdf",
+      "bytes": 1252835,
+      "paginas": 35,
+      "corte": "2022-03-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2022-02",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2022-02.pdf",
+      "bytes": 1171395,
+      "paginas": 36,
+      "corte": "2022-02-28",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2022-01",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2022-01.pdf",
+      "bytes": 951245,
+      "paginas": 31,
+      "corte": "2022-01-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-28"
     }
   ],
-  "actualizado_en": "2026-10-28T15:38:55-05:00"
+  "actualizado_en": "2026-10-28T16:12:57-05:00"
 }
