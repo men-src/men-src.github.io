@@ -86,6 +86,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "legalizaciones",
+      "periodo": "2026-08",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2026-08.pdf",
+      "bytes": 2847607,
+      "paginas": 44,
+      "corte": "2026-08-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "canales",
       "periodo": "2026-08",
       "titulo": {
@@ -128,6 +142,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "legalizaciones",
+      "periodo": "2026-07",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2026-07.pdf",
+      "bytes": 2778859,
+      "paginas": 44,
+      "corte": "2026-07-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "canales",
       "periodo": "2026-07",
       "titulo": {
@@ -164,6 +192,20 @@
       },
       "archivo": "pqrsdf/informe-general-pqrsdf-2026-06.pdf",
       "bytes": 2198442,
+      "paginas": 43,
+      "corte": "2026-06-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2026-06",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2026-06.pdf",
+      "bytes": 2698613,
       "paginas": 43,
       "corte": "2026-06-30",
       "actualizacion_id": 41,
@@ -212,6 +254,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "legalizaciones",
+      "periodo": "2026-05",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2026-05.pdf",
+      "bytes": 2627886,
+      "paginas": 42,
+      "corte": "2026-05-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "canales",
       "periodo": "2026-05",
       "titulo": {
@@ -249,6 +305,20 @@
       "archivo": "pqrsdf/informe-general-pqrsdf-2026-04.pdf",
       "bytes": 2069221,
       "paginas": 43,
+      "corte": "2026-04-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2026-04",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2026-04.pdf",
+      "bytes": 2541533,
+      "paginas": 42,
       "corte": "2026-04-30",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
@@ -296,6 +366,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "legalizaciones",
+      "periodo": "2026-03",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2026-03.pdf",
+      "bytes": 2434365,
+      "paginas": 42,
+      "corte": "2026-03-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "canales",
       "periodo": "2026-03",
       "titulo": {
@@ -333,6 +417,20 @@
       "archivo": "pqrsdf/informe-general-pqrsdf-2026-02.pdf",
       "bytes": 1942563,
       "paginas": 44,
+      "corte": "2026-02-28",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2026-02",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2026-02.pdf",
+      "bytes": 2351286,
+      "paginas": 42,
       "corte": "2026-02-28",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
@@ -380,6 +478,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "legalizaciones",
+      "periodo": "2026-01",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2026-01.pdf",
+      "bytes": 1918899,
+      "paginas": 37,
+      "corte": "2026-01-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "canales",
       "periodo": "2026-01",
       "titulo": {
@@ -417,6 +529,20 @@
       "archivo": "pqrsdf/informe-general-pqrsdf-2025-12.pdf",
       "bytes": 2311685,
       "paginas": 42,
+      "corte": "2025-12-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2025-12",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2025-12.pdf",
+      "bytes": 2843067,
+      "paginas": 44,
       "corte": "2025-12-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
@@ -464,6 +590,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "legalizaciones",
+      "periodo": "2025-11",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2025-11.pdf",
+      "bytes": 2833503,
+      "paginas": 45,
+      "corte": "2025-11-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "canales",
       "periodo": "2025-11",
       "titulo": {
@@ -501,6 +641,20 @@
       "archivo": "pqrsdf/informe-general-pqrsdf-2025-10.pdf",
       "bytes": 2270941,
       "paginas": 42,
+      "corte": "2025-10-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2025-10",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2025-10.pdf",
+      "bytes": 2814828,
+      "paginas": 44,
       "corte": "2025-10-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
@@ -548,6 +702,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "legalizaciones",
+      "periodo": "2025-09",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2025-09.pdf",
+      "bytes": 2792591,
+      "paginas": 44,
+      "corte": "2025-09-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "canales",
       "periodo": "2025-09",
       "titulo": {
@@ -585,6 +753,20 @@
       "archivo": "pqrsdf/informe-general-pqrsdf-2025-08.pdf",
       "bytes": 2223998,
       "paginas": 41,
+      "corte": "2025-08-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2025-08",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2025-08.pdf",
+      "bytes": 2784499,
+      "paginas": 44,
       "corte": "2025-08-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
@@ -632,6 +814,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "legalizaciones",
+      "periodo": "2025-07",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2025-07.pdf",
+      "bytes": 2692219,
+      "paginas": 44,
+      "corte": "2025-07-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "canales",
       "periodo": "2025-07",
       "titulo": {
@@ -674,6 +870,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "legalizaciones",
+      "periodo": "2025-06",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2025-06.pdf",
+      "bytes": 2650445,
+      "paginas": 43,
+      "corte": "2025-06-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "canales",
       "periodo": "2025-06",
       "titulo": {
@@ -710,6 +920,20 @@
       },
       "archivo": "pqrsdf/informe-general-pqrsdf-2025-05.pdf",
       "bytes": 2066016,
+      "paginas": 42,
+      "corte": "2025-05-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2025-05",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2025-05.pdf",
+      "bytes": 2584890,
       "paginas": 42,
       "corte": "2025-05-31",
       "actualizacion_id": 41,
@@ -758,6 +982,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "legalizaciones",
+      "periodo": "2025-04",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2025-04.pdf",
+      "bytes": 2473458,
+      "paginas": 42,
+      "corte": "2025-04-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "canales",
       "periodo": "2025-04",
       "titulo": {
@@ -794,6 +1032,20 @@
       },
       "archivo": "pqrsdf/informe-general-pqrsdf-2025-03.pdf",
       "bytes": 1973257,
+      "paginas": 42,
+      "corte": "2025-03-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2025-03",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2025-03.pdf",
+      "bytes": 2399998,
       "paginas": 42,
       "corte": "2025-03-31",
       "actualizacion_id": 41,
@@ -842,6 +1094,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "legalizaciones",
+      "periodo": "2025-02",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2025-02.pdf",
+      "bytes": 2299207,
+      "paginas": 42,
+      "corte": "2025-02-28",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "canales",
       "periodo": "2025-02",
       "titulo": {
@@ -879,6 +1145,20 @@
       "archivo": "pqrsdf/informe-general-pqrsdf-2025-01.pdf",
       "bytes": 1738608,
       "paginas": 42,
+      "corte": "2025-01-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2025-01",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2025-01.pdf",
+      "bytes": 1886002,
+      "paginas": 37,
       "corte": "2025-01-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
@@ -926,6 +1206,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "legalizaciones",
+      "periodo": "2024-12",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2024-12.pdf",
+      "bytes": 2782481,
+      "paginas": 44,
+      "corte": "2024-12-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "canales",
       "periodo": "2024-12",
       "titulo": {
@@ -963,6 +1257,20 @@
       "archivo": "pqrsdf/informe-general-pqrsdf-2024-11.pdf",
       "bytes": 2216780,
       "paginas": 42,
+      "corte": "2024-11-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2024-11",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2024-11.pdf",
+      "bytes": 2788846,
+      "paginas": 45,
       "corte": "2024-11-30",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
@@ -1010,6 +1318,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "legalizaciones",
+      "periodo": "2024-10",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2024-10.pdf",
+      "bytes": 2789104,
+      "paginas": 44,
+      "corte": "2024-10-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "canales",
       "periodo": "2024-10",
       "titulo": {
@@ -1047,6 +1369,20 @@
       "archivo": "pqrsdf/informe-general-pqrsdf-2024-09.pdf",
       "bytes": 2144152,
       "paginas": 42,
+      "corte": "2024-09-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2024-09",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2024-09.pdf",
+      "bytes": 2742697,
+      "paginas": 44,
       "corte": "2024-09-30",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
@@ -1094,6 +1430,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "legalizaciones",
+      "periodo": "2024-08",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2024-08.pdf",
+      "bytes": 2756234,
+      "paginas": 44,
+      "corte": "2024-08-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "canales",
       "periodo": "2024-08",
       "titulo": {
@@ -1131,6 +1481,20 @@
       "archivo": "pqrsdf/informe-general-pqrsdf-2024-07.pdf",
       "bytes": 2106299,
       "paginas": 42,
+      "corte": "2024-07-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2024-07",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2024-07.pdf",
+      "bytes": 2691161,
+      "paginas": 44,
       "corte": "2024-07-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
@@ -1178,6 +1542,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "legalizaciones",
+      "periodo": "2024-06",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2024-06.pdf",
+      "bytes": 2629132,
+      "paginas": 43,
+      "corte": "2024-06-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "canales",
       "periodo": "2024-06",
       "titulo": {
@@ -1214,6 +1592,20 @@
       },
       "archivo": "pqrsdf/informe-general-pqrsdf-2024-05.pdf",
       "bytes": 2023047,
+      "paginas": 42,
+      "corte": "2024-05-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2024-05",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2024-05.pdf",
+      "bytes": 2552721,
       "paginas": 42,
       "corte": "2024-05-31",
       "actualizacion_id": 41,
@@ -1262,6 +1654,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "legalizaciones",
+      "periodo": "2024-04",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2024-04.pdf",
+      "bytes": 2500131,
+      "paginas": 42,
+      "corte": "2024-04-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "canales",
       "periodo": "2024-04",
       "titulo": {
@@ -1299,6 +1705,20 @@
       "archivo": "pqrsdf/informe-general-pqrsdf-2024-03.pdf",
       "bytes": 1916523,
       "paginas": 41,
+      "corte": "2024-03-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2024-03",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2024-03.pdf",
+      "bytes": 2419608,
+      "paginas": 42,
       "corte": "2024-03-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
@@ -1346,6 +1766,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "legalizaciones",
+      "periodo": "2024-02",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2024-02.pdf",
+      "bytes": 2332807,
+      "paginas": 42,
+      "corte": "2024-02-29",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "canales",
       "periodo": "2024-02",
       "titulo": {
@@ -1383,6 +1817,20 @@
       "archivo": "pqrsdf/informe-general-pqrsdf-2024-01.pdf",
       "bytes": 1699129,
       "paginas": 41,
+      "corte": "2024-01-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2024-01",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2024-01.pdf",
+      "bytes": 1896014,
+      "paginas": 37,
       "corte": "2024-01-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
@@ -1430,6 +1878,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "legalizaciones",
+      "periodo": "2023-12",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2023-12.pdf",
+      "bytes": 2802596,
+      "paginas": 44,
+      "corte": "2023-12-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "canales",
       "periodo": "2023-12",
       "titulo": {
@@ -1467,6 +1929,20 @@
       "archivo": "pqrsdf/informe-general-pqrsdf-2023-11.pdf",
       "bytes": 2080439,
       "paginas": 41,
+      "corte": "2023-11-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2023-11",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2023-11.pdf",
+      "bytes": 2818250,
+      "paginas": 45,
       "corte": "2023-11-30",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
@@ -1514,6 +1990,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "legalizaciones",
+      "periodo": "2023-10",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2023-10.pdf",
+      "bytes": 2807971,
+      "paginas": 44,
+      "corte": "2023-10-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "canales",
       "periodo": "2023-10",
       "titulo": {
@@ -1551,6 +2041,20 @@
       "archivo": "pqrsdf/informe-general-pqrsdf-2023-09.pdf",
       "bytes": 2028807,
       "paginas": 41,
+      "corte": "2023-09-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2023-09",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2023-09.pdf",
+      "bytes": 2770059,
+      "paginas": 44,
       "corte": "2023-09-30",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
@@ -1598,6 +2102,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "legalizaciones",
+      "periodo": "2023-08",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2023-08.pdf",
+      "bytes": 2783595,
+      "paginas": 44,
+      "corte": "2023-08-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "canales",
       "periodo": "2023-08",
       "titulo": {
@@ -1635,6 +2153,20 @@
       "archivo": "pqrsdf/informe-general-pqrsdf-2023-07.pdf",
       "bytes": 2004500,
       "paginas": 41,
+      "corte": "2023-07-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2023-07",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2023-07.pdf",
+      "bytes": 2696480,
+      "paginas": 44,
       "corte": "2023-07-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
@@ -1682,6 +2214,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "legalizaciones",
+      "periodo": "2023-06",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2023-06.pdf",
+      "bytes": 2627613,
+      "paginas": 43,
+      "corte": "2023-06-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "canales",
       "periodo": "2023-06",
       "titulo": {
@@ -1719,6 +2265,20 @@
       "archivo": "pqrsdf/informe-general-pqrsdf-2023-05.pdf",
       "bytes": 1957429,
       "paginas": 41,
+      "corte": "2023-05-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2023-05",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2023-05.pdf",
+      "bytes": 2549053,
+      "paginas": 42,
       "corte": "2023-05-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
@@ -1766,6 +2326,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "legalizaciones",
+      "periodo": "2023-04",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2023-04.pdf",
+      "bytes": 2488372,
+      "paginas": 42,
+      "corte": "2023-04-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "canales",
       "periodo": "2023-04",
       "titulo": {
@@ -1803,6 +2377,20 @@
       "archivo": "pqrsdf/informe-general-pqrsdf-2023-03.pdf",
       "bytes": 1831131,
       "paginas": 41,
+      "corte": "2023-03-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2023-03",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2023-03.pdf",
+      "bytes": 2406066,
+      "paginas": 42,
       "corte": "2023-03-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
@@ -1850,6 +2438,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "legalizaciones",
+      "periodo": "2023-02",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2023-02.pdf",
+      "bytes": 2315369,
+      "paginas": 42,
+      "corte": "2023-02-28",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "canales",
       "periodo": "2023-02",
       "titulo": {
@@ -1892,6 +2494,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "legalizaciones",
+      "periodo": "2023-01",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2023-01.pdf",
+      "bytes": 1875256,
+      "paginas": 37,
+      "corte": "2023-01-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "canales",
       "periodo": "2023-01",
       "titulo": {
@@ -1920,6 +2536,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "legalizaciones",
+      "periodo": "2022-12",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2022-12.pdf",
+      "bytes": 2632406,
+      "paginas": 42,
+      "corte": "2022-12-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2022-11",
       "titulo": {
@@ -1929,6 +2559,20 @@
       "archivo": "pqrsdf/informe-general-pqrsdf-2022-11.pdf",
       "bytes": 1932845,
       "paginas": 39,
+      "corte": "2022-11-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2022-11",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2022-11.pdf",
+      "bytes": 2627760,
+      "paginas": 42,
       "corte": "2022-11-30",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
@@ -1948,6 +2592,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "legalizaciones",
+      "periodo": "2022-10",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2022-10.pdf",
+      "bytes": 2578991,
+      "paginas": 42,
+      "corte": "2022-10-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2022-09",
       "titulo": {
@@ -1957,6 +2615,20 @@
       "archivo": "pqrsdf/informe-general-pqrsdf-2022-09.pdf",
       "bytes": 1834258,
       "paginas": 38,
+      "corte": "2022-09-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2022-09",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2022-09.pdf",
+      "bytes": 2555525,
+      "paginas": 42,
       "corte": "2022-09-30",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
@@ -1976,6 +2648,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "legalizaciones",
+      "periodo": "2022-08",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2022-08.pdf",
+      "bytes": 2536315,
+      "paginas": 42,
+      "corte": "2022-08-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2022-07",
       "titulo": {
@@ -1985,6 +2671,20 @@
       "archivo": "pqrsdf/informe-general-pqrsdf-2022-07.pdf",
       "bytes": 1744019,
       "paginas": 39,
+      "corte": "2022-07-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2022-07",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2022-07.pdf",
+      "bytes": 2473063,
+      "paginas": 42,
       "corte": "2022-07-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
@@ -2004,6 +2704,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "legalizaciones",
+      "periodo": "2022-06",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2022-06.pdf",
+      "bytes": 2396360,
+      "paginas": 41,
+      "corte": "2022-06-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2022-05",
       "titulo": {
@@ -2013,6 +2727,20 @@
       "archivo": "pqrsdf/informe-general-pqrsdf-2022-05.pdf",
       "bytes": 1602169,
       "paginas": 38,
+      "corte": "2022-05-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2022-05",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2022-05.pdf",
+      "bytes": 2321654,
+      "paginas": 40,
       "corte": "2022-05-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
@@ -2032,6 +2760,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "legalizaciones",
+      "periodo": "2022-04",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2022-04.pdf",
+      "bytes": 2220675,
+      "paginas": 40,
+      "corte": "2022-04-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2022-03",
       "titulo": {
@@ -2041,6 +2783,20 @@
       "archivo": "pqrsdf/informe-general-pqrsdf-2022-03.pdf",
       "bytes": 1252643,
       "paginas": 35,
+      "corte": "2022-03-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2022-03",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2022-03.pdf",
+      "bytes": 2066204,
+      "paginas": 39,
       "corte": "2022-03-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
@@ -2060,6 +2816,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "legalizaciones",
+      "periodo": "2022-02",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2022-02.pdf",
+      "bytes": 1969739,
+      "paginas": 39,
+      "corte": "2022-02-28",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2022-01",
       "titulo": {
@@ -2072,9 +2842,23 @@
       "corte": "2022-01-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2022-01",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2022-01.pdf",
+      "bytes": 1342516,
+      "paginas": 29,
+      "corte": "2022-01-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
     }
   ],
-  "actualizado_en": "2026-10-29T17:25:11-05:00",
+  "actualizado_en": "2026-10-29T18:18:01-05:00",
   "portadas": {
     "pqrsdf": {
       "archivo": "pqrsdf/portada.png",
