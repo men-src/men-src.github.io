@@ -23,8 +23,8 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2026-09.pdf",
-      "bytes": 4832174,
-      "paginas": 55,
+      "bytes": 4834697,
+      "paginas": 56,
       "corte": "2026-09-30",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
@@ -814,7 +814,7 @@
       "generado_en": "2026-10-29"
     }
   ],
-  "actualizado_en": "2026-10-29T12:33:13-05:00",
+  "actualizado_en": "2026-10-29T12:42:49-05:00",
   "portadas": {
     "pqrsdf": {
       "archivo": "pqrsdf/portada.png",
