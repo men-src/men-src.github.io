@@ -30,6 +30,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "legalizaciones",
+      "periodo": "2026-09",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2026-09.pdf",
+      "bytes": 2858487,
+      "paginas": 44,
+      "corte": "2026-09-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "canales",
       "periodo": "2026-09",
       "titulo": {
@@ -2060,7 +2074,7 @@
       "generado_en": "2026-10-29"
     }
   ],
-  "actualizado_en": "2026-10-29T14:53:36-05:00",
+  "actualizado_en": "2026-10-29T17:25:11-05:00",
   "portadas": {
     "pqrsdf": {
       "archivo": "pqrsdf/portada.png",
@@ -2092,10 +2106,10 @@
     },
     "legalizaciones": {
       "archivo": "legalizaciones/portada.png",
-      "periodo": null,
+      "periodo": "2026-09",
       "ancho": 1224,
       "alto": 942,
-      "bytes": 60592
+      "bytes": 78665
     },
     "resoluciones": {
       "archivo": "resoluciones/portada.png",
