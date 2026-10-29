@@ -2,6 +2,20 @@
   "version": 1,
   "publicaciones": [
     {
+      "informe": "tramites",
+      "periodo": "2026-09",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2026-09.pdf",
+      "bytes": 1634294,
+      "paginas": 28,
+      "corte": "2026-09-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2026-09",
       "titulo": {
@@ -1430,7 +1444,7 @@
       "generado_en": "2026-10-29"
     }
   ],
-  "actualizado_en": "2026-10-29T13:11:44-05:00",
+  "actualizado_en": "2026-10-29T14:08:04-05:00",
   "portadas": {
     "pqrsdf": {
       "archivo": "pqrsdf/portada.png",
@@ -1455,10 +1469,10 @@
     },
     "tramites": {
       "archivo": "tramites/portada.png",
-      "periodo": null,
+      "periodo": "2026-09",
       "ancho": 1224,
       "alto": 942,
-      "bytes": 55170
+      "bytes": 72823
     },
     "legalizaciones": {
       "archivo": "legalizaciones/portada.png",
