@@ -23,7 +23,7 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2026-09.pdf",
-      "bytes": 4834697,
+      "bytes": 4834692,
       "paginas": 56,
       "corte": "2026-09-30",
       "actualizacion_id": 41,
@@ -44,6 +44,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "canales",
+      "periodo": "2026-08",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2026-08.pdf",
+      "bytes": 4699723,
+      "paginas": 56,
+      "corte": "2026-08-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2026-07",
       "titulo": {
@@ -53,6 +67,20 @@
       "archivo": "pqrsdf/informe-general-pqrsdf-2026-07.pdf",
       "bytes": 2267097,
       "paginas": 42,
+      "corte": "2026-07-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2026-07",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2026-07.pdf",
+      "bytes": 4499974,
+      "paginas": 56,
       "corte": "2026-07-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
@@ -72,6 +100,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "canales",
+      "periodo": "2026-06",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2026-06.pdf",
+      "bytes": 4327045,
+      "paginas": 56,
+      "corte": "2026-06-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2026-05",
       "titulo": {
@@ -81,6 +123,20 @@
       "archivo": "pqrsdf/informe-general-pqrsdf-2026-05.pdf",
       "bytes": 2138437,
       "paginas": 44,
+      "corte": "2026-05-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2026-05",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2026-05.pdf",
+      "bytes": 4130385,
+      "paginas": 56,
       "corte": "2026-05-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
@@ -100,6 +156,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "canales",
+      "periodo": "2026-04",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2026-04.pdf",
+      "bytes": 4022997,
+      "paginas": 55,
+      "corte": "2026-04-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2026-03",
       "titulo": {
@@ -109,6 +179,20 @@
       "archivo": "pqrsdf/informe-general-pqrsdf-2026-03.pdf",
       "bytes": 2000241,
       "paginas": 44,
+      "corte": "2026-03-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2026-03",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2026-03.pdf",
+      "bytes": 3713719,
+      "paginas": 53,
       "corte": "2026-03-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
@@ -128,6 +212,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "canales",
+      "periodo": "2026-02",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2026-02.pdf",
+      "bytes": 3254692,
+      "paginas": 51,
+      "corte": "2026-02-28",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2026-01",
       "titulo": {
@@ -137,6 +235,20 @@
       "archivo": "pqrsdf/informe-general-pqrsdf-2026-01.pdf",
       "bytes": 1798597,
       "paginas": 43,
+      "corte": "2026-01-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2026-01",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2026-01.pdf",
+      "bytes": 3394672,
+      "paginas": 50,
       "corte": "2026-01-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
@@ -156,6 +268,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "canales",
+      "periodo": "2025-12",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2025-12.pdf",
+      "bytes": 4706997,
+      "paginas": 52,
+      "corte": "2025-12-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2025-11",
       "titulo": {
@@ -165,6 +291,20 @@
       "archivo": "pqrsdf/informe-general-pqrsdf-2025-11.pdf",
       "bytes": 2289805,
       "paginas": 42,
+      "corte": "2025-11-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2025-11",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2025-11.pdf",
+      "bytes": 4579870,
+      "paginas": 52,
       "corte": "2025-11-30",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
@@ -184,6 +324,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "canales",
+      "periodo": "2025-10",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2025-10.pdf",
+      "bytes": 4495371,
+      "paginas": 51,
+      "corte": "2025-10-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2025-09",
       "titulo": {
@@ -193,6 +347,20 @@
       "archivo": "pqrsdf/informe-general-pqrsdf-2025-09.pdf",
       "bytes": 2236304,
       "paginas": 42,
+      "corte": "2025-09-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2025-09",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2025-09.pdf",
+      "bytes": 4466100,
+      "paginas": 52,
       "corte": "2025-09-30",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
@@ -212,6 +380,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "canales",
+      "periodo": "2025-08",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2025-08.pdf",
+      "bytes": 4354054,
+      "paginas": 52,
+      "corte": "2025-08-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2025-07",
       "titulo": {
@@ -221,6 +403,20 @@
       "archivo": "pqrsdf/informe-general-pqrsdf-2025-07.pdf",
       "bytes": 2180574,
       "paginas": 41,
+      "corte": "2025-07-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2025-07",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2025-07.pdf",
+      "bytes": 4114647,
+      "paginas": 52,
       "corte": "2025-07-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
@@ -240,6 +436,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "canales",
+      "periodo": "2025-06",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2025-06.pdf",
+      "bytes": 3972080,
+      "paginas": 52,
+      "corte": "2025-06-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2025-05",
       "titulo": {
@@ -249,6 +459,20 @@
       "archivo": "pqrsdf/informe-general-pqrsdf-2025-05.pdf",
       "bytes": 2066016,
       "paginas": 42,
+      "corte": "2025-05-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2025-05",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2025-05.pdf",
+      "bytes": 3779993,
+      "paginas": 52,
       "corte": "2025-05-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
@@ -268,6 +492,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "canales",
+      "periodo": "2025-04",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2025-04.pdf",
+      "bytes": 3655254,
+      "paginas": 52,
+      "corte": "2025-04-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2025-03",
       "titulo": {
@@ -277,6 +515,20 @@
       "archivo": "pqrsdf/informe-general-pqrsdf-2025-03.pdf",
       "bytes": 1973257,
       "paginas": 42,
+      "corte": "2025-03-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2025-03",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2025-03.pdf",
+      "bytes": 3441626,
+      "paginas": 52,
       "corte": "2025-03-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
@@ -296,6 +548,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "canales",
+      "periodo": "2025-02",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2025-02.pdf",
+      "bytes": 3151201,
+      "paginas": 52,
+      "corte": "2025-02-28",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2025-01",
       "titulo": {
@@ -305,6 +571,20 @@
       "archivo": "pqrsdf/informe-general-pqrsdf-2025-01.pdf",
       "bytes": 1738608,
       "paginas": 42,
+      "corte": "2025-01-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2025-01",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2025-01.pdf",
+      "bytes": 3449122,
+      "paginas": 51,
       "corte": "2025-01-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
@@ -324,6 +604,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "canales",
+      "periodo": "2024-12",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2024-12.pdf",
+      "bytes": 4740477,
+      "paginas": 52,
+      "corte": "2024-12-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2024-11",
       "titulo": {
@@ -333,6 +627,20 @@
       "archivo": "pqrsdf/informe-general-pqrsdf-2024-11.pdf",
       "bytes": 2216780,
       "paginas": 42,
+      "corte": "2024-11-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2024-11",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2024-11.pdf",
+      "bytes": 4543637,
+      "paginas": 52,
       "corte": "2024-11-30",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
@@ -352,6 +660,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "canales",
+      "periodo": "2024-10",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2024-10.pdf",
+      "bytes": 4440806,
+      "paginas": 52,
+      "corte": "2024-10-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2024-09",
       "titulo": {
@@ -361,6 +683,20 @@
       "archivo": "pqrsdf/informe-general-pqrsdf-2024-09.pdf",
       "bytes": 2144152,
       "paginas": 42,
+      "corte": "2024-09-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2024-09",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2024-09.pdf",
+      "bytes": 4397846,
+      "paginas": 52,
       "corte": "2024-09-30",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
@@ -380,6 +716,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "canales",
+      "periodo": "2024-08",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2024-08.pdf",
+      "bytes": 4277596,
+      "paginas": 52,
+      "corte": "2024-08-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2024-07",
       "titulo": {
@@ -389,6 +739,20 @@
       "archivo": "pqrsdf/informe-general-pqrsdf-2024-07.pdf",
       "bytes": 2106299,
       "paginas": 42,
+      "corte": "2024-07-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2024-07",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2024-07.pdf",
+      "bytes": 4058401,
+      "paginas": 52,
       "corte": "2024-07-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
@@ -408,6 +772,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "canales",
+      "periodo": "2024-06",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2024-06.pdf",
+      "bytes": 3940099,
+      "paginas": 53,
+      "corte": "2024-06-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2024-05",
       "titulo": {
@@ -417,6 +795,20 @@
       "archivo": "pqrsdf/informe-general-pqrsdf-2024-05.pdf",
       "bytes": 2023047,
       "paginas": 42,
+      "corte": "2024-05-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2024-05",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2024-05.pdf",
+      "bytes": 3707391,
+      "paginas": 53,
       "corte": "2024-05-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
@@ -436,6 +828,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "canales",
+      "periodo": "2024-04",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2024-04.pdf",
+      "bytes": 3571861,
+      "paginas": 53,
+      "corte": "2024-04-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2024-03",
       "titulo": {
@@ -445,6 +851,20 @@
       "archivo": "pqrsdf/informe-general-pqrsdf-2024-03.pdf",
       "bytes": 1916523,
       "paginas": 41,
+      "corte": "2024-03-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2024-03",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2024-03.pdf",
+      "bytes": 3299394,
+      "paginas": 53,
       "corte": "2024-03-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
@@ -464,6 +884,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "canales",
+      "periodo": "2024-02",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2024-02.pdf",
+      "bytes": 2889672,
+      "paginas": 52,
+      "corte": "2024-02-29",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2024-01",
       "titulo": {
@@ -473,6 +907,20 @@
       "archivo": "pqrsdf/informe-general-pqrsdf-2024-01.pdf",
       "bytes": 1699129,
       "paginas": 41,
+      "corte": "2024-01-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2024-01",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2024-01.pdf",
+      "bytes": 2966101,
+      "paginas": 52,
       "corte": "2024-01-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
@@ -492,6 +940,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "canales",
+      "periodo": "2023-12",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2023-12.pdf",
+      "bytes": 3602815,
+      "paginas": 46,
+      "corte": "2023-12-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2023-11",
       "titulo": {
@@ -501,6 +963,20 @@
       "archivo": "pqrsdf/informe-general-pqrsdf-2023-11.pdf",
       "bytes": 2080439,
       "paginas": 41,
+      "corte": "2023-11-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2023-11",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2023-11.pdf",
+      "bytes": 3479560,
+      "paginas": 46,
       "corte": "2023-11-30",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
@@ -520,6 +996,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "canales",
+      "periodo": "2023-10",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2023-10.pdf",
+      "bytes": 3383346,
+      "paginas": 48,
+      "corte": "2023-10-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2023-09",
       "titulo": {
@@ -529,6 +1019,20 @@
       "archivo": "pqrsdf/informe-general-pqrsdf-2023-09.pdf",
       "bytes": 2028807,
       "paginas": 41,
+      "corte": "2023-09-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2023-09",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2023-09.pdf",
+      "bytes": 3339451,
+      "paginas": 47,
       "corte": "2023-09-30",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
@@ -548,6 +1052,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "canales",
+      "periodo": "2023-08",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2023-08.pdf",
+      "bytes": 3218876,
+      "paginas": 47,
+      "corte": "2023-08-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2023-07",
       "titulo": {
@@ -557,6 +1075,20 @@
       "archivo": "pqrsdf/informe-general-pqrsdf-2023-07.pdf",
       "bytes": 2004500,
       "paginas": 41,
+      "corte": "2023-07-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2023-07",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2023-07.pdf",
+      "bytes": 3038903,
+      "paginas": 47,
       "corte": "2023-07-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
@@ -576,6 +1108,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "canales",
+      "periodo": "2023-06",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2023-06.pdf",
+      "bytes": 2870855,
+      "paginas": 46,
+      "corte": "2023-06-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2023-05",
       "titulo": {
@@ -585,6 +1131,20 @@
       "archivo": "pqrsdf/informe-general-pqrsdf-2023-05.pdf",
       "bytes": 1957429,
       "paginas": 41,
+      "corte": "2023-05-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2023-05",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2023-05.pdf",
+      "bytes": 2671221,
+      "paginas": 46,
       "corte": "2023-05-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
@@ -604,6 +1164,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "canales",
+      "periodo": "2023-04",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2023-04.pdf",
+      "bytes": 2388184,
+      "paginas": 46,
+      "corte": "2023-04-30",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2023-03",
       "titulo": {
@@ -613,6 +1187,20 @@
       "archivo": "pqrsdf/informe-general-pqrsdf-2023-03.pdf",
       "bytes": 1831131,
       "paginas": 41,
+      "corte": "2023-03-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2023-03",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2023-03.pdf",
+      "bytes": 1978905,
+      "paginas": 43,
       "corte": "2023-03-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
@@ -632,6 +1220,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "canales",
+      "periodo": "2023-02",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2023-02.pdf",
+      "bytes": 1238058,
+      "paginas": 34,
+      "corte": "2023-02-28",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2023-01",
       "titulo": {
@@ -641,6 +1243,20 @@
       "archivo": "pqrsdf/informe-general-pqrsdf-2023-01.pdf",
       "bytes": 1640675,
       "paginas": 40,
+      "corte": "2023-01-31",
+      "actualizacion_id": 41,
+      "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2023-01",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2023-01.pdf",
+      "bytes": 311316,
+      "paginas": 23,
       "corte": "2023-01-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
@@ -814,7 +1430,7 @@
       "generado_en": "2026-10-29"
     }
   ],
-  "actualizado_en": "2026-10-29T12:42:49-05:00",
+  "actualizado_en": "2026-10-29T13:11:44-05:00",
   "portadas": {
     "pqrsdf": {
       "archivo": "pqrsdf/portada.png",
