@@ -23,10 +23,10 @@
         "en": "PQRSDF General Report"
       },
       "archivo": "pqrsdf/informe-general-pqrsdf-2026-09.pdf",
-      "bytes": 2348327,
+      "bytes": 2348554,
       "paginas": 44,
       "corte": "2026-09-30",
-      "actualizacion_id": 41,
+      "actualizacion_id": 51,
       "generado_en": "2026-10-29"
     },
     {
@@ -37,10 +37,10 @@
         "en": "Legalizations Report"
       },
       "archivo": "legalizaciones/informe-legalizaciones-2026-09.pdf",
-      "bytes": 2858487,
+      "bytes": 2855348,
       "paginas": 44,
       "corte": "2026-09-30",
-      "actualizacion_id": 41,
+      "actualizacion_id": 51,
       "generado_en": "2026-10-29"
     },
     {
@@ -79,10 +79,10 @@
         "en": "PQRSDF General Report"
       },
       "archivo": "pqrsdf/informe-general-pqrsdf-2026-08.pdf",
-      "bytes": 2338940,
+      "bytes": 2338955,
       "paginas": 43,
       "corte": "2026-08-31",
-      "actualizacion_id": 41,
+      "actualizacion_id": 51,
       "generado_en": "2026-10-29"
     },
     {
@@ -93,10 +93,10 @@
         "en": "Legalizations Report"
       },
       "archivo": "legalizaciones/informe-legalizaciones-2026-08.pdf",
-      "bytes": 2847607,
+      "bytes": 2844262,
       "paginas": 44,
       "corte": "2026-08-31",
-      "actualizacion_id": 41,
+      "actualizacion_id": 51,
       "generado_en": "2026-10-29"
     },
     {
@@ -135,10 +135,10 @@
         "en": "PQRSDF General Report"
       },
       "archivo": "pqrsdf/informe-general-pqrsdf-2026-07.pdf",
-      "bytes": 2267097,
+      "bytes": 2267862,
       "paginas": 42,
       "corte": "2026-07-31",
-      "actualizacion_id": 41,
+      "actualizacion_id": 51,
       "generado_en": "2026-10-29"
     },
     {
@@ -149,10 +149,10 @@
         "en": "Legalizations Report"
       },
       "archivo": "legalizaciones/informe-legalizaciones-2026-07.pdf",
-      "bytes": 2778859,
+      "bytes": 2780546,
       "paginas": 44,
       "corte": "2026-07-31",
-      "actualizacion_id": 41,
+      "actualizacion_id": 51,
       "generado_en": "2026-10-29"
     },
     {
@@ -205,10 +205,10 @@
         "en": "Legalizations Report"
       },
       "archivo": "legalizaciones/informe-legalizaciones-2026-06.pdf",
-      "bytes": 2698613,
+      "bytes": 2699426,
       "paginas": 43,
       "corte": "2026-06-30",
-      "actualizacion_id": 41,
+      "actualizacion_id": 51,
       "generado_en": "2026-10-29"
     },
     {
@@ -2858,7 +2858,7 @@
       "generado_en": "2026-10-29"
     }
   ],
-  "actualizado_en": "2026-10-29T18:18:01-05:00",
+  "actualizado_en": "2026-10-29T20:58:54-05:00",
   "portadas": {
     "pqrsdf": {
       "archivo": "pqrsdf/portada.png",
@@ -2893,7 +2893,7 @@
       "periodo": "2026-09",
       "ancho": 1224,
       "alto": 942,
-      "bytes": 78665
+      "bytes": 80087
     },
     "resoluciones": {
       "archivo": "resoluciones/portada.png",
