@@ -9,10 +9,10 @@
         "en": "Procedures Report"
       },
       "archivo": "tramites/informe-tramites-2026-09.pdf",
-      "bytes": 1633143,
+      "bytes": 1634096,
       "paginas": 26,
       "corte": "2026-09-30",
-      "actualizacion_id": 41,
+      "actualizacion_id": 51,
       "generado_en": "2026-10-29"
     },
     {
@@ -23,8 +23,8 @@
         "en": "PQRSDF General Report"
       },
       "archivo": "pqrsdf/informe-general-pqrsdf-2026-09.pdf",
-      "bytes": 2348554,
-      "paginas": 44,
+      "bytes": 2259768,
+      "paginas": 42,
       "corte": "2026-09-30",
       "actualizacion_id": 51,
       "generado_en": "2026-10-29"
@@ -37,7 +37,7 @@
         "en": "Legalizations Report"
       },
       "archivo": "legalizaciones/informe-legalizaciones-2026-09.pdf",
-      "bytes": 2855348,
+      "bytes": 2855461,
       "paginas": 44,
       "corte": "2026-09-30",
       "actualizacion_id": 51,
@@ -51,10 +51,10 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2026-09.pdf",
-      "bytes": 4834692,
-      "paginas": 56,
+      "bytes": 4805537,
+      "paginas": 57,
       "corte": "2026-09-30",
-      "actualizacion_id": 41,
+      "actualizacion_id": 51,
       "generado_en": "2026-10-29"
     },
     {
@@ -2858,7 +2858,7 @@
       "generado_en": "2026-10-29"
     }
   ],
-  "actualizado_en": "2026-10-29T20:58:54-05:00",
+  "actualizado_en": "2026-10-29T21:57:15-05:00",
   "portadas": {
     "pqrsdf": {
       "archivo": "pqrsdf/portada.png",
