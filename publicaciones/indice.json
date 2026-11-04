@@ -10,9 +10,39 @@
         "en": "PQRSDF General Report"
       },
       "archivo": "pqrsdf/informe-general-pqrsdf-2026-T3.pdf",
-      "bytes": 1830734,
+      "bytes": 1830671,
       "paginas": 43,
       "corte": "2026-09-30",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2026-T2",
+      "periodicidad": "trimestral",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2026-T2.pdf",
+      "bytes": 1760138,
+      "paginas": 42,
+      "corte": "2026-06-30",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2026-T1",
+      "periodicidad": "trimestral",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2026-T1.pdf",
+      "bytes": 1656741,
+      "paginas": 41,
+      "corte": "2026-03-31",
       "actualizacion_id": 71,
       "generado_en": "2026-11-04"
     },
@@ -533,6 +563,66 @@
       "corte": "2026-01-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2025-T4",
+      "periodicidad": "trimestral",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2025-T4.pdf",
+      "bytes": 1919443,
+      "paginas": 41,
+      "corte": "2025-12-31",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2025-T3",
+      "periodicidad": "trimestral",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2025-T3.pdf",
+      "bytes": 1852352,
+      "paginas": 41,
+      "corte": "2025-09-30",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2025-T2",
+      "periodicidad": "trimestral",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2025-T2.pdf",
+      "bytes": 1773950,
+      "paginas": 42,
+      "corte": "2025-06-30",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2025-T1",
+      "periodicidad": "trimestral",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2025-T1.pdf",
+      "bytes": 1623707,
+      "paginas": 41,
+      "corte": "2025-03-31",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
     },
     {
       "informe": "tramites",
@@ -1207,6 +1297,66 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "pqrsdf",
+      "periodo": "2024-T4",
+      "periodicidad": "trimestral",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2024-T4.pdf",
+      "bytes": 1869025,
+      "paginas": 42,
+      "corte": "2024-12-31",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2024-T3",
+      "periodicidad": "trimestral",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2024-T3.pdf",
+      "bytes": 1804321,
+      "paginas": 42,
+      "corte": "2024-09-30",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2024-T2",
+      "periodicidad": "trimestral",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2024-T2.pdf",
+      "bytes": 1751698,
+      "paginas": 42,
+      "corte": "2024-06-30",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2024-T1",
+      "periodicidad": "trimestral",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2024-T1.pdf",
+      "bytes": 1592805,
+      "paginas": 41,
+      "corte": "2024-03-31",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
       "informe": "tramites",
       "periodo": "2024-12",
       "titulo": {
@@ -1877,6 +2027,66 @@
       "corte": "2024-01-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2023-T4",
+      "periodicidad": "trimestral",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2023-T4.pdf",
+      "bytes": 1708856,
+      "paginas": 40,
+      "corte": "2023-12-31",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2023-T3",
+      "periodicidad": "trimestral",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2023-T3.pdf",
+      "bytes": 1651276,
+      "paginas": 41,
+      "corte": "2023-09-30",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2023-T2",
+      "periodicidad": "trimestral",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2023-T2.pdf",
+      "bytes": 1580216,
+      "paginas": 40,
+      "corte": "2023-06-30",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2023-T1",
+      "periodicidad": "trimestral",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2023-T1.pdf",
+      "bytes": 1387952,
+      "paginas": 40,
+      "corte": "2023-03-31",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
     },
     {
       "informe": "tramites",
@@ -2552,6 +2762,66 @@
     },
     {
       "informe": "pqrsdf",
+      "periodo": "2022-T4",
+      "periodicidad": "trimestral",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2022-T4.pdf",
+      "bytes": 1480548,
+      "paginas": 39,
+      "corte": "2022-12-31",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2022-T3",
+      "periodicidad": "trimestral",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2022-T3.pdf",
+      "bytes": 1262355,
+      "paginas": 37,
+      "corte": "2022-09-30",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2022-T2",
+      "periodicidad": "trimestral",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2022-T2.pdf",
+      "bytes": 1181964,
+      "paginas": 37,
+      "corte": "2022-06-30",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2022-T1",
+      "periodicidad": "trimestral",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2022-T1.pdf",
+      "bytes": 975616,
+      "paginas": 31,
+      "corte": "2022-03-31",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
+      "informe": "pqrsdf",
       "periodo": "2022-12",
       "titulo": {
         "es": "Informe General de PQRSDF",
@@ -2887,7 +3157,7 @@
       "generado_en": "2026-10-29"
     }
   ],
-  "actualizado_en": "2026-11-04T11:03:28-05:00",
+  "actualizado_en": "2026-11-04T12:23:07-05:00",
   "portadas": {
     "pqrsdf": {
       "archivo": "pqrsdf/portada.png",
