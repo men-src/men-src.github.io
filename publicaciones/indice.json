@@ -75,6 +75,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "resoluciones",
+      "periodo": "2026-09",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2026-09.pdf",
+      "bytes": 1497752,
+      "paginas": 29,
+      "corte": "2026-09-30",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2026-09",
       "titulo": {
@@ -3157,7 +3171,7 @@
       "generado_en": "2026-10-29"
     }
   ],
-  "actualizado_en": "2026-11-04T12:23:07-05:00",
+  "actualizado_en": "2026-11-04T13:40:33-05:00",
   "portadas": {
     "pqrsdf": {
       "archivo": "pqrsdf/portada.png",
@@ -3196,10 +3210,10 @@
     },
     "resoluciones": {
       "archivo": "resoluciones/portada.png",
-      "periodo": null,
+      "periodo": "2026-09",
       "ancho": 1224,
       "alto": 942,
-      "bytes": 60945
+      "bytes": 78929
     }
   }
 }
