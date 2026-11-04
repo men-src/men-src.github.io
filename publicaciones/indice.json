@@ -82,7 +82,7 @@
         "en": "Resolutions and Orders Report"
       },
       "archivo": "resoluciones/informe-resoluciones-autos-2026-09.pdf",
-      "bytes": 1497752,
+      "bytes": 1497725,
       "paginas": 29,
       "corte": "2026-09-30",
       "actualizacion_id": 71,
@@ -3171,7 +3171,7 @@
       "generado_en": "2026-10-29"
     }
   ],
-  "actualizado_en": "2026-11-04T13:40:33-05:00",
+  "actualizado_en": "2026-11-04T13:49:25-05:00",
   "portadas": {
     "pqrsdf": {
       "archivo": "pqrsdf/portada.png",
