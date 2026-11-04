@@ -145,6 +145,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "resoluciones",
+      "periodo": "2026-08",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2026-08.pdf",
+      "bytes": 1554658,
+      "paginas": 30,
+      "corte": "2026-08-31",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2026-08",
       "titulo": {
@@ -199,6 +213,20 @@
       "corte": "2026-07-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2026-07",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2026-07.pdf",
+      "bytes": 1499273,
+      "paginas": 30,
+      "corte": "2026-07-31",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
     },
     {
       "informe": "pqrsdf",
@@ -257,6 +285,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "resoluciones",
+      "periodo": "2026-06",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2026-06.pdf",
+      "bytes": 1466741,
+      "paginas": 31,
+      "corte": "2026-06-30",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2026-06",
       "titulo": {
@@ -311,6 +353,20 @@
       "corte": "2026-05-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2026-05",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2026-05.pdf",
+      "bytes": 1393755,
+      "paginas": 30,
+      "corte": "2026-05-31",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
     },
     {
       "informe": "pqrsdf",
@@ -369,6 +425,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "resoluciones",
+      "periodo": "2026-04",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2026-04.pdf",
+      "bytes": 1354456,
+      "paginas": 28,
+      "corte": "2026-04-30",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2026-04",
       "titulo": {
@@ -423,6 +493,20 @@
       "corte": "2026-03-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2026-03",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2026-03.pdf",
+      "bytes": 1290339,
+      "paginas": 29,
+      "corte": "2026-03-31",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
     },
     {
       "informe": "pqrsdf",
@@ -481,6 +565,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "resoluciones",
+      "periodo": "2026-02",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2026-02.pdf",
+      "bytes": 1245069,
+      "paginas": 28,
+      "corte": "2026-02-28",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2026-02",
       "titulo": {
@@ -535,6 +633,20 @@
       "corte": "2026-01-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2026-01",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2026-01.pdf",
+      "bytes": 999352,
+      "paginas": 25,
+      "corte": "2026-01-31",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
     },
     {
       "informe": "pqrsdf",
@@ -653,6 +765,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "resoluciones",
+      "periodo": "2025-12",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2025-12.pdf",
+      "bytes": 1550244,
+      "paginas": 31,
+      "corte": "2025-12-31",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2025-12",
       "titulo": {
@@ -707,6 +833,20 @@
       "corte": "2025-11-30",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2025-11",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2025-11.pdf",
+      "bytes": 1559844,
+      "paginas": 30,
+      "corte": "2025-11-30",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
     },
     {
       "informe": "pqrsdf",
@@ -765,6 +905,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "resoluciones",
+      "periodo": "2025-10",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2025-10.pdf",
+      "bytes": 1551636,
+      "paginas": 29,
+      "corte": "2025-10-31",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2025-10",
       "titulo": {
@@ -819,6 +973,20 @@
       "corte": "2025-09-30",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2025-09",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2025-09.pdf",
+      "bytes": 1511774,
+      "paginas": 31,
+      "corte": "2025-09-30",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
     },
     {
       "informe": "pqrsdf",
@@ -877,6 +1045,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "resoluciones",
+      "periodo": "2025-08",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2025-08.pdf",
+      "bytes": 1524844,
+      "paginas": 30,
+      "corte": "2025-08-31",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2025-08",
       "titulo": {
@@ -931,6 +1113,20 @@
       "corte": "2025-07-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2025-07",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2025-07.pdf",
+      "bytes": 1504532,
+      "paginas": 30,
+      "corte": "2025-07-31",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
     },
     {
       "informe": "pqrsdf",
@@ -989,6 +1185,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "resoluciones",
+      "periodo": "2025-06",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2025-06.pdf",
+      "bytes": 1464937,
+      "paginas": 29,
+      "corte": "2025-06-30",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2025-06",
       "titulo": {
@@ -1043,6 +1253,20 @@
       "corte": "2025-05-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2025-05",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2025-05.pdf",
+      "bytes": 1407299,
+      "paginas": 29,
+      "corte": "2025-05-31",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
     },
     {
       "informe": "pqrsdf",
@@ -1101,6 +1325,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "resoluciones",
+      "periodo": "2025-04",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2025-04.pdf",
+      "bytes": 1373627,
+      "paginas": 30,
+      "corte": "2025-04-30",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2025-04",
       "titulo": {
@@ -1155,6 +1393,20 @@
       "corte": "2025-03-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2025-03",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2025-03.pdf",
+      "bytes": 1305019,
+      "paginas": 28,
+      "corte": "2025-03-31",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
     },
     {
       "informe": "pqrsdf",
@@ -1213,6 +1465,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "resoluciones",
+      "periodo": "2025-02",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2025-02.pdf",
+      "bytes": 1250112,
+      "paginas": 28,
+      "corte": "2025-02-28",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2025-02",
       "titulo": {
@@ -1267,6 +1533,20 @@
       "corte": "2025-01-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2025-01",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2025-01.pdf",
+      "bytes": 996860,
+      "paginas": 25,
+      "corte": "2025-01-31",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
     },
     {
       "informe": "pqrsdf",
@@ -1385,6 +1665,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "resoluciones",
+      "periodo": "2024-12",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2024-12.pdf",
+      "bytes": 1578549,
+      "paginas": 30,
+      "corte": "2024-12-31",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2024-12",
       "titulo": {
@@ -1439,6 +1733,20 @@
       "corte": "2024-11-30",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2024-11",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2024-11.pdf",
+      "bytes": 1533777,
+      "paginas": 30,
+      "corte": "2024-11-30",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
     },
     {
       "informe": "pqrsdf",
@@ -1497,6 +1805,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "resoluciones",
+      "periodo": "2024-10",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2024-10.pdf",
+      "bytes": 1529670,
+      "paginas": 30,
+      "corte": "2024-10-31",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2024-10",
       "titulo": {
@@ -1551,6 +1873,20 @@
       "corte": "2024-09-30",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2024-09",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2024-09.pdf",
+      "bytes": 1496161,
+      "paginas": 31,
+      "corte": "2024-09-30",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
     },
     {
       "informe": "pqrsdf",
@@ -1609,6 +1945,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "resoluciones",
+      "periodo": "2024-08",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2024-08.pdf",
+      "bytes": 1505137,
+      "paginas": 28,
+      "corte": "2024-08-31",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2024-08",
       "titulo": {
@@ -1663,6 +2013,20 @@
       "corte": "2024-07-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2024-07",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2024-07.pdf",
+      "bytes": 1479770,
+      "paginas": 28,
+      "corte": "2024-07-31",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
     },
     {
       "informe": "pqrsdf",
@@ -1721,6 +2085,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "resoluciones",
+      "periodo": "2024-06",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2024-06.pdf",
+      "bytes": 1439615,
+      "paginas": 28,
+      "corte": "2024-06-30",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2024-06",
       "titulo": {
@@ -1775,6 +2153,20 @@
       "corte": "2024-05-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2024-05",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2024-05.pdf",
+      "bytes": 1391714,
+      "paginas": 29,
+      "corte": "2024-05-31",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
     },
     {
       "informe": "pqrsdf",
@@ -1833,6 +2225,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "resoluciones",
+      "periodo": "2024-04",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2024-04.pdf",
+      "bytes": 1358371,
+      "paginas": 29,
+      "corte": "2024-04-30",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2024-04",
       "titulo": {
@@ -1887,6 +2293,20 @@
       "corte": "2024-03-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2024-03",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2024-03.pdf",
+      "bytes": 1319374,
+      "paginas": 28,
+      "corte": "2024-03-31",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
     },
     {
       "informe": "pqrsdf",
@@ -1945,6 +2365,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "resoluciones",
+      "periodo": "2024-02",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2024-02.pdf",
+      "bytes": 1276412,
+      "paginas": 28,
+      "corte": "2024-02-29",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2024-02",
       "titulo": {
@@ -1999,6 +2433,20 @@
       "corte": "2024-01-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2024-01",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2024-01.pdf",
+      "bytes": 1001204,
+      "paginas": 25,
+      "corte": "2024-01-31",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
     },
     {
       "informe": "pqrsdf",
@@ -2117,6 +2565,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "resoluciones",
+      "periodo": "2023-12",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2023-12.pdf",
+      "bytes": 1595950,
+      "paginas": 31,
+      "corte": "2023-12-31",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2023-12",
       "titulo": {
@@ -2171,6 +2633,20 @@
       "corte": "2023-11-30",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2023-11",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2023-11.pdf",
+      "bytes": 1595576,
+      "paginas": 29,
+      "corte": "2023-11-30",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
     },
     {
       "informe": "pqrsdf",
@@ -2229,6 +2705,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "resoluciones",
+      "periodo": "2023-10",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2023-10.pdf",
+      "bytes": 1579480,
+      "paginas": 29,
+      "corte": "2023-10-31",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2023-10",
       "titulo": {
@@ -2283,6 +2773,20 @@
       "corte": "2023-09-30",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2023-09",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2023-09.pdf",
+      "bytes": 1583572,
+      "paginas": 30,
+      "corte": "2023-09-30",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
     },
     {
       "informe": "pqrsdf",
@@ -2341,6 +2845,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "resoluciones",
+      "periodo": "2023-08",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2023-08.pdf",
+      "bytes": 1586226,
+      "paginas": 30,
+      "corte": "2023-08-31",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2023-08",
       "titulo": {
@@ -2395,6 +2913,20 @@
       "corte": "2023-07-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2023-07",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2023-07.pdf",
+      "bytes": 1565908,
+      "paginas": 29,
+      "corte": "2023-07-31",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
     },
     {
       "informe": "pqrsdf",
@@ -2453,6 +2985,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "resoluciones",
+      "periodo": "2023-06",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2023-06.pdf",
+      "bytes": 1509519,
+      "paginas": 29,
+      "corte": "2023-06-30",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2023-06",
       "titulo": {
@@ -2507,6 +3053,20 @@
       "corte": "2023-05-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2023-05",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2023-05.pdf",
+      "bytes": 1430057,
+      "paginas": 31,
+      "corte": "2023-05-31",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
     },
     {
       "informe": "pqrsdf",
@@ -2565,6 +3125,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "resoluciones",
+      "periodo": "2023-04",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2023-04.pdf",
+      "bytes": 1402687,
+      "paginas": 30,
+      "corte": "2023-04-30",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2023-04",
       "titulo": {
@@ -2619,6 +3193,20 @@
       "corte": "2023-03-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2023-03",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2023-03.pdf",
+      "bytes": 1314760,
+      "paginas": 29,
+      "corte": "2023-03-31",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
     },
     {
       "informe": "pqrsdf",
@@ -2677,6 +3265,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "resoluciones",
+      "periodo": "2023-02",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2023-02.pdf",
+      "bytes": 1269340,
+      "paginas": 28,
+      "corte": "2023-02-28",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2023-02",
       "titulo": {
@@ -2731,6 +3333,20 @@
       "corte": "2023-01-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2023-01",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2023-01.pdf",
+      "bytes": 998003,
+      "paginas": 26,
+      "corte": "2023-01-31",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
     },
     {
       "informe": "pqrsdf",
@@ -2835,6 +3451,20 @@
       "generado_en": "2026-11-04"
     },
     {
+      "informe": "resoluciones",
+      "periodo": "2022-12",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2022-12.pdf",
+      "bytes": 1496570,
+      "paginas": 30,
+      "corte": "2022-12-31",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2022-12",
       "titulo": {
@@ -2861,6 +3491,20 @@
       "corte": "2022-12-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2022-11",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2022-11.pdf",
+      "bytes": 1453657,
+      "paginas": 30,
+      "corte": "2022-11-30",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
     },
     {
       "informe": "pqrsdf",
@@ -2891,6 +3535,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "resoluciones",
+      "periodo": "2022-10",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2022-10.pdf",
+      "bytes": 1445927,
+      "paginas": 30,
+      "corte": "2022-10-31",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2022-10",
       "titulo": {
@@ -2917,6 +3575,20 @@
       "corte": "2022-10-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2022-09",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2022-09.pdf",
+      "bytes": 1415614,
+      "paginas": 29,
+      "corte": "2022-09-30",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
     },
     {
       "informe": "pqrsdf",
@@ -2947,6 +3619,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "resoluciones",
+      "periodo": "2022-08",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2022-08.pdf",
+      "bytes": 1452168,
+      "paginas": 29,
+      "corte": "2022-08-31",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2022-08",
       "titulo": {
@@ -2973,6 +3659,20 @@
       "corte": "2022-08-31",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2022-07",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2022-07.pdf",
+      "bytes": 1435074,
+      "paginas": 30,
+      "corte": "2022-07-31",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
     },
     {
       "informe": "pqrsdf",
@@ -3003,6 +3703,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "resoluciones",
+      "periodo": "2022-06",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2022-06.pdf",
+      "bytes": 1365729,
+      "paginas": 31,
+      "corte": "2022-06-30",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2022-06",
       "titulo": {
@@ -3029,6 +3743,20 @@
       "corte": "2022-06-30",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2022-05",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2022-05.pdf",
+      "bytes": 1340049,
+      "paginas": 31,
+      "corte": "2022-05-31",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
     },
     {
       "informe": "pqrsdf",
@@ -3059,6 +3787,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "resoluciones",
+      "periodo": "2022-04",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2022-04.pdf",
+      "bytes": 1289553,
+      "paginas": 29,
+      "corte": "2022-04-30",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2022-04",
       "titulo": {
@@ -3085,6 +3827,20 @@
       "corte": "2022-04-30",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2022-03",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2022-03.pdf",
+      "bytes": 1150597,
+      "paginas": 28,
+      "corte": "2022-03-31",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
     },
     {
       "informe": "pqrsdf",
@@ -3115,6 +3871,20 @@
       "generado_en": "2026-10-29"
     },
     {
+      "informe": "resoluciones",
+      "periodo": "2022-02",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2022-02.pdf",
+      "bytes": 1134572,
+      "paginas": 27,
+      "corte": "2022-02-28",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2022-02",
       "titulo": {
@@ -3141,6 +3911,20 @@
       "corte": "2022-02-28",
       "actualizacion_id": 41,
       "generado_en": "2026-10-29"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2022-01",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2022-01.pdf",
+      "bytes": 679944,
+      "paginas": 21,
+      "corte": "2022-01-31",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
     },
     {
       "informe": "pqrsdf",
@@ -3171,7 +3955,7 @@
       "generado_en": "2026-10-29"
     }
   ],
-  "actualizado_en": "2026-11-04T13:49:25-05:00",
+  "actualizado_en": "2026-11-04T14:17:07-05:00",
   "portadas": {
     "pqrsdf": {
       "archivo": "pqrsdf/portada.png",
