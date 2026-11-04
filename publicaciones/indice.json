@@ -3,6 +3,21 @@
   "publicaciones": [
     {
       "informe": "pqrsdf",
+      "periodo": "2026-T3",
+      "periodicidad": "trimestral",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2026-T3.pdf",
+      "bytes": 2352084,
+      "paginas": 43,
+      "corte": "2026-09-30",
+      "actualizacion_id": 71,
+      "generado_en": "2026-11-04"
+    },
+    {
+      "informe": "pqrsdf",
       "periodo": "2026-10",
       "titulo": {
         "es": "Informe General de PQRSDF",
@@ -2872,7 +2887,7 @@
       "generado_en": "2026-10-29"
     }
   ],
-  "actualizado_en": "2026-11-04T08:53:41-05:00",
+  "actualizado_en": "2026-11-04T09:51:36-05:00",
   "portadas": {
     "pqrsdf": {
       "archivo": "pqrsdf/portada.png",
