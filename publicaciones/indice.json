@@ -75,6 +75,20 @@
       "generado_en": "2026-11-04"
     },
     {
+      "informe": "legalizaciones",
+      "periodo": "2026-10",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2026-10.pdf",
+      "bytes": 2886026,
+      "paginas": 46,
+      "corte": "2026-10-31",
+      "actualizacion_id": 78,
+      "generado_en": "2026-11-04"
+    },
+    {
       "informe": "tramites",
       "periodo": "2026-09",
       "titulo": {
@@ -124,11 +138,11 @@
         "en": "Legalizations Report"
       },
       "archivo": "legalizaciones/informe-legalizaciones-2026-09.pdf",
-      "bytes": 2855460,
-      "paginas": 44,
+      "bytes": 2851682,
+      "paginas": 46,
       "corte": "2026-09-30",
-      "actualizacion_id": 51,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 78,
+      "generado_en": "2026-11-04"
     },
     {
       "informe": "canales",
@@ -194,11 +208,11 @@
         "en": "Legalizations Report"
       },
       "archivo": "legalizaciones/informe-legalizaciones-2026-08.pdf",
-      "bytes": 2844262,
-      "paginas": 44,
+      "bytes": 2853047,
+      "paginas": 46,
       "corte": "2026-08-31",
-      "actualizacion_id": 51,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 78,
+      "generado_en": "2026-11-04"
     },
     {
       "informe": "canales",
@@ -264,11 +278,11 @@
         "en": "Legalizations Report"
       },
       "archivo": "legalizaciones/informe-legalizaciones-2026-07.pdf",
-      "bytes": 2780546,
+      "bytes": 2781770,
       "paginas": 44,
       "corte": "2026-07-31",
-      "actualizacion_id": 51,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 78,
+      "generado_en": "2026-11-04"
     },
     {
       "informe": "canales",
@@ -3969,7 +3983,7 @@
       "generado_en": "2026-10-29"
     }
   ],
-  "actualizado_en": "2026-11-04T15:27:19-05:00",
+  "actualizado_en": "2026-11-04T16:06:43-05:00",
   "portadas": {
     "pqrsdf": {
       "archivo": "pqrsdf/portada.png",
@@ -4001,10 +4015,10 @@
     },
     "legalizaciones": {
       "archivo": "legalizaciones/portada.png",
-      "periodo": "2026-09",
+      "periodo": "2026-10",
       "ancho": 1224,
       "alto": 942,
-      "bytes": 80087
+      "bytes": 79893
     },
     "resoluciones": {
       "archivo": "resoluciones/portada.png",
