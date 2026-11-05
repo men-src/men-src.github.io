@@ -89,6 +89,20 @@
       "generado_en": "2026-11-05"
     },
     {
+      "informe": "canales",
+      "periodo": "2026-10",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2026-10.pdf",
+      "bytes": 4835218,
+      "paginas": 56,
+      "corte": "2026-10-25",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
       "informe": "tramites",
       "periodo": "2026-09",
       "titulo": {
@@ -152,11 +166,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2026-09.pdf",
-      "bytes": 4805182,
-      "paginas": 57,
+      "bytes": 4804650,
+      "paginas": 56,
       "corte": "2026-09-30",
-      "actualizacion_id": 51,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "tramites",
@@ -222,11 +236,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2026-08.pdf",
-      "bytes": 4699723,
+      "bytes": 4671769,
       "paginas": 56,
       "corte": "2026-08-31",
-      "actualizacion_id": 41,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "tramites",
@@ -292,11 +306,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2026-07.pdf",
-      "bytes": 4499974,
+      "bytes": 4474956,
       "paginas": 56,
       "corte": "2026-07-31",
-      "actualizacion_id": 41,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "tramites",
@@ -362,11 +376,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2026-06.pdf",
-      "bytes": 4327045,
+      "bytes": 4302927,
       "paginas": 56,
       "corte": "2026-06-30",
-      "actualizacion_id": 41,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "tramites",
@@ -432,11 +446,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2026-05.pdf",
-      "bytes": 4130385,
+      "bytes": 4104626,
       "paginas": 56,
       "corte": "2026-05-31",
-      "actualizacion_id": 41,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "tramites",
@@ -502,11 +516,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2026-04.pdf",
-      "bytes": 4022997,
+      "bytes": 3998336,
       "paginas": 55,
       "corte": "2026-04-30",
-      "actualizacion_id": 41,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "tramites",
@@ -572,11 +586,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2026-03.pdf",
-      "bytes": 3713719,
-      "paginas": 53,
+      "bytes": 3694410,
+      "paginas": 54,
       "corte": "2026-03-31",
-      "actualizacion_id": 41,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "tramites",
@@ -642,11 +656,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2026-02.pdf",
-      "bytes": 3254692,
+      "bytes": 3238250,
       "paginas": 51,
       "corte": "2026-02-28",
-      "actualizacion_id": 41,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "tramites",
@@ -712,11 +726,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2026-01.pdf",
-      "bytes": 3394672,
-      "paginas": 50,
+      "bytes": 3369357,
+      "paginas": 53,
       "corte": "2026-01-31",
-      "actualizacion_id": 41,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "pqrsdf",
@@ -842,11 +856,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2025-12.pdf",
-      "bytes": 4706997,
+      "bytes": 4683494,
       "paginas": 52,
       "corte": "2025-12-31",
-      "actualizacion_id": 41,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "tramites",
@@ -912,11 +926,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2025-11.pdf",
-      "bytes": 4579870,
+      "bytes": 4556822,
       "paginas": 52,
       "corte": "2025-11-30",
-      "actualizacion_id": 41,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "tramites",
@@ -982,11 +996,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2025-10.pdf",
-      "bytes": 4495371,
-      "paginas": 51,
+      "bytes": 4472213,
+      "paginas": 52,
       "corte": "2025-10-31",
-      "actualizacion_id": 41,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "tramites",
@@ -1052,11 +1066,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2025-09.pdf",
-      "bytes": 4466100,
+      "bytes": 4441797,
       "paginas": 52,
       "corte": "2025-09-30",
-      "actualizacion_id": 41,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "tramites",
@@ -1122,11 +1136,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2025-08.pdf",
-      "bytes": 4354054,
+      "bytes": 4330336,
       "paginas": 52,
       "corte": "2025-08-31",
-      "actualizacion_id": 41,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "tramites",
@@ -1192,11 +1206,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2025-07.pdf",
-      "bytes": 4114647,
+      "bytes": 4090434,
       "paginas": 52,
       "corte": "2025-07-31",
-      "actualizacion_id": 41,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "tramites",
@@ -1262,11 +1276,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2025-06.pdf",
-      "bytes": 3972080,
-      "paginas": 52,
+      "bytes": 3952507,
+      "paginas": 53,
       "corte": "2025-06-30",
-      "actualizacion_id": 41,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "tramites",
@@ -1332,11 +1346,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2025-05.pdf",
-      "bytes": 3779993,
+      "bytes": 3759745,
       "paginas": 52,
       "corte": "2025-05-31",
-      "actualizacion_id": 41,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "tramites",
@@ -1402,11 +1416,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2025-04.pdf",
-      "bytes": 3655254,
+      "bytes": 3635948,
       "paginas": 52,
       "corte": "2025-04-30",
-      "actualizacion_id": 41,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "tramites",
@@ -1472,11 +1486,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2025-03.pdf",
-      "bytes": 3441626,
+      "bytes": 3423817,
       "paginas": 52,
       "corte": "2025-03-31",
-      "actualizacion_id": 41,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "tramites",
@@ -1542,11 +1556,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2025-02.pdf",
-      "bytes": 3151201,
-      "paginas": 52,
+      "bytes": 3139252,
+      "paginas": 53,
       "corte": "2025-02-28",
-      "actualizacion_id": 41,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "tramites",
@@ -1612,11 +1626,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2025-01.pdf",
-      "bytes": 3449122,
-      "paginas": 51,
+      "bytes": 3430562,
+      "paginas": 56,
       "corte": "2025-01-31",
-      "actualizacion_id": 41,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "pqrsdf",
@@ -1742,11 +1756,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2024-12.pdf",
-      "bytes": 4740477,
-      "paginas": 52,
+      "bytes": 4718687,
+      "paginas": 53,
       "corte": "2024-12-31",
-      "actualizacion_id": 41,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "tramites",
@@ -1812,11 +1826,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2024-11.pdf",
-      "bytes": 4543637,
-      "paginas": 52,
+      "bytes": 4522562,
+      "paginas": 53,
       "corte": "2024-11-30",
-      "actualizacion_id": 41,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "tramites",
@@ -1882,11 +1896,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2024-10.pdf",
-      "bytes": 4440806,
-      "paginas": 52,
+      "bytes": 4420949,
+      "paginas": 53,
       "corte": "2024-10-31",
-      "actualizacion_id": 41,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "tramites",
@@ -1952,11 +1966,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2024-09.pdf",
-      "bytes": 4397846,
-      "paginas": 52,
+      "bytes": 4379171,
+      "paginas": 53,
       "corte": "2024-09-30",
-      "actualizacion_id": 41,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "tramites",
@@ -2022,11 +2036,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2024-08.pdf",
-      "bytes": 4277596,
+      "bytes": 4257712,
       "paginas": 52,
       "corte": "2024-08-31",
-      "actualizacion_id": 41,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "tramites",
@@ -2092,11 +2106,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2024-07.pdf",
-      "bytes": 4058401,
-      "paginas": 52,
+      "bytes": 4039169,
+      "paginas": 53,
       "corte": "2024-07-31",
-      "actualizacion_id": 41,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "tramites",
@@ -2162,11 +2176,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2024-06.pdf",
-      "bytes": 3940099,
-      "paginas": 53,
+      "bytes": 3919881,
+      "paginas": 52,
       "corte": "2024-06-30",
-      "actualizacion_id": 41,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "tramites",
@@ -2232,11 +2246,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2024-05.pdf",
-      "bytes": 3707391,
-      "paginas": 53,
+      "bytes": 3686955,
+      "paginas": 52,
       "corte": "2024-05-31",
-      "actualizacion_id": 41,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "tramites",
@@ -2302,11 +2316,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2024-04.pdf",
-      "bytes": 3571861,
-      "paginas": 53,
+      "bytes": 3550738,
+      "paginas": 52,
       "corte": "2024-04-30",
-      "actualizacion_id": 41,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "tramites",
@@ -2372,11 +2386,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2024-03.pdf",
-      "bytes": 3299394,
+      "bytes": 3279199,
       "paginas": 53,
       "corte": "2024-03-31",
-      "actualizacion_id": 41,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "tramites",
@@ -2442,11 +2456,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2024-02.pdf",
-      "bytes": 2889672,
-      "paginas": 52,
+      "bytes": 2873755,
+      "paginas": 53,
       "corte": "2024-02-29",
-      "actualizacion_id": 41,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "tramites",
@@ -2512,11 +2526,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2024-01.pdf",
-      "bytes": 2966101,
-      "paginas": 52,
+      "bytes": 2942217,
+      "paginas": 53,
       "corte": "2024-01-31",
-      "actualizacion_id": 41,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "pqrsdf",
@@ -2642,11 +2656,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2023-12.pdf",
-      "bytes": 3602815,
-      "paginas": 46,
+      "bytes": 3584090,
+      "paginas": 47,
       "corte": "2023-12-31",
-      "actualizacion_id": 41,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "tramites",
@@ -2712,11 +2726,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2023-11.pdf",
-      "bytes": 3479560,
-      "paginas": 46,
+      "bytes": 3461211,
+      "paginas": 47,
       "corte": "2023-11-30",
-      "actualizacion_id": 41,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "tramites",
@@ -2782,11 +2796,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2023-10.pdf",
-      "bytes": 3383346,
-      "paginas": 48,
+      "bytes": 3363190,
+      "paginas": 47,
       "corte": "2023-10-31",
-      "actualizacion_id": 41,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "tramites",
@@ -2852,11 +2866,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2023-09.pdf",
-      "bytes": 3339451,
+      "bytes": 3319914,
       "paginas": 47,
       "corte": "2023-09-30",
-      "actualizacion_id": 41,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "tramites",
@@ -2922,11 +2936,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2023-08.pdf",
-      "bytes": 3218876,
+      "bytes": 3200958,
       "paginas": 47,
       "corte": "2023-08-31",
-      "actualizacion_id": 41,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "tramites",
@@ -2992,11 +3006,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2023-07.pdf",
-      "bytes": 3038903,
+      "bytes": 3021592,
       "paginas": 47,
       "corte": "2023-07-31",
-      "actualizacion_id": 41,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "tramites",
@@ -3062,11 +3076,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2023-06.pdf",
-      "bytes": 2870855,
-      "paginas": 46,
+      "bytes": 2853145,
+      "paginas": 47,
       "corte": "2023-06-30",
-      "actualizacion_id": 41,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "tramites",
@@ -3132,11 +3146,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2023-05.pdf",
-      "bytes": 2671221,
-      "paginas": 46,
+      "bytes": 2653958,
+      "paginas": 47,
       "corte": "2023-05-31",
-      "actualizacion_id": 41,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "tramites",
@@ -3202,11 +3216,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2023-04.pdf",
-      "bytes": 2388184,
-      "paginas": 46,
+      "bytes": 2372055,
+      "paginas": 47,
       "corte": "2023-04-30",
-      "actualizacion_id": 41,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "tramites",
@@ -3272,11 +3286,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2023-03.pdf",
-      "bytes": 1978905,
-      "paginas": 43,
+      "bytes": 1965780,
+      "paginas": 45,
       "corte": "2023-03-31",
-      "actualizacion_id": 41,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "tramites",
@@ -3342,11 +3356,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2023-02.pdf",
-      "bytes": 1238058,
-      "paginas": 34,
+      "bytes": 1234794,
+      "paginas": 35,
       "corte": "2023-02-28",
-      "actualizacion_id": 41,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "tramites",
@@ -3412,11 +3426,11 @@
         "en": "Service Channels Report"
       },
       "archivo": "canales/informe-canales-atencion-2023-01.pdf",
-      "bytes": 311316,
-      "paginas": 23,
+      "bytes": 310624,
+      "paginas": 22,
       "corte": "2023-01-31",
-      "actualizacion_id": 41,
-      "generado_en": "2026-10-29"
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
     },
     {
       "informe": "pqrsdf",
@@ -3983,7 +3997,7 @@
       "generado_en": "2026-10-29"
     }
   ],
-  "actualizado_en": "2026-11-05T12:06:11-05:00",
+  "actualizado_en": "2026-11-05T14:58:18-05:00",
   "portadas": {
     "pqrsdf": {
       "archivo": "pqrsdf/portada.png",
@@ -4001,10 +4015,10 @@
     },
     "canales": {
       "archivo": "canales/portada.png",
-      "periodo": "2026-09",
+      "periodo": "2026-10",
       "ancho": 1224,
       "alto": 942,
-      "bytes": 77309
+      "bytes": 78533
     },
     "tramites": {
       "archivo": "tramites/portada.png",
