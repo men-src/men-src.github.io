@@ -4055,7 +4055,7 @@
       "generado_en": "2026-11-05"
     }
   ],
-  "actualizado_en": "2026-11-05T17:13:20-05:00",
+  "actualizado_en": "2026-11-06T12:48:01-05:00",
   "portadas": {
     "pqrsdf": {
       "archivo": "pqrsdf/portada.png",
@@ -4066,10 +4066,10 @@
     },
     "comunicaciones": {
       "archivo": "comunicaciones/portada.png",
-      "periodo": null,
+      "periodo": "2026-10",
       "ancho": 1224,
       "alto": 942,
-      "bytes": 63496
+      "bytes": 78802
     },
     "canales": {
       "archivo": "canales/portada.png",
