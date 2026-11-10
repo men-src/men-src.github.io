@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:"/_next/static/chunks/1jy3r_94svw55.js"
+2:"/_next/static/chunks/3os742ifvth-1.js"
 3:"/_next/static/chunks/1m9pfaw0wpl5h.js"
 4:I[79520,["$2","$3"],""]
 5:"SCRIPT_TEMA_INICIAL"
@@ -12,12 +12,12 @@ b:I[9873,["$2","$3"],"FondoVivo"]
 c:I[39756,["$2","$3"],"default"]
 d:I[37457,["$2","$3"],"default"]
 e:"/_next/static/chunks/3aq2lvf1voqoo.js"
-f:"/_next/static/chunks/3x2-ybvgd9df_.js"
+f:"/_next/static/chunks/0z6t9ca86ybi1.js"
 10:"PaginaNoEncontrada"
 11:I[29085,["$2","$3","$e","$f"],"$10"]
 12:"BarraAccesibilidad"
 13:I[52315,["$2","$3"],"$12"]
-1a:"/_next/static/chunks/23n0bdw-jeu0k.js"
+1a:"/_next/static/chunks/12pbz94z5jmwp.js"
 1b:I[52197,["$2","$3","$1a","$f"],"PaginaEncuestas"]
 1c:I[97367,["$2","$3"],"OutletBoundary"]
 1d:"$Sreact.suspense"
@@ -30,9 +30,9 @@ f:"/_next/static/chunks/3x2-ybvgd9df_.js"
 15:X
 18:X
 18:C
-19:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L1b",null,{}],[["$","script","script-0",{"src":"/_next/static/chunks/23n0bdw-jeu0k.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/3x2-ybvgd9df_.js","async":true}]],["$","$L1c",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","children":"$@1e"}]}]]}],"p":"$@1f","v":null,"s":"$15"}}]]
+19:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L1b",null,{}],[["$","script","script-0",{"src":"/_next/static/chunks/12pbz94z5jmwp.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0z6t9ca86ybi1.js","async":true}]],["$","$L1c",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","children":"$@1e"}]}]]}],"p":"$@1f","v":null,"s":"$15"}}]]
 16:[["children",{"s":"encuestas","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}]}]]}],"p":"$@17","v":"$18","s":"$15"},"c":"$Q19"}]]
-0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2_grfu30_qr1b.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/1jy3r_94svw55.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/1m9pfaw0wpl5h.js","async":true}]],["$","html",null,{"lang":"es","className":"czr2iW_variable h-full antialiased","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","$L4",null,{"id":"tema-inicial","strategy":"beforeInteractive","children":"$6"}],["$","$L4",null,{"id":"idioma-inicial","strategy":"beforeInteractive","children":"$8"}],["$","$L4",null,{"id":"accesibilidad-inicial","strategy":"beforeInteractive","children":"$a"}]]}],["$","body",null,{"className":"min-h-full bg-background font-sans text-foreground","children":[["$","$Lb",null,{}],["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}],"notFound":[[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var m=location.pathname.match(/^\\/publicaciones\\/(pqrsdf|canales|tramites|legalizaciones|resoluciones)\\/([^\\/]+\\.pdf)$/);if(m){location.replace(\"/publicaciones-\"+m[1]+\"/\"+m[2]+location.search+location.hash)}}catch(e){}})();"}}],["$","$L11",null,{}]],[]]}],["$","$L13",null,{}]]}]]}]]}],"p":"$@14","v":null,"s":"$15"},"c":"$Q16"},"h":{"r":["$","$1","h",{"children":[null,["$","$L21",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L23",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Encuestas de Satisfacción · Plataforma de Analítica de Datos · Ministerio de Educación Nacional"}],["$","meta","1",{"name":"description","content":"Las encuestas de satisfacción de la atención a la ciudadanía del Ministerio de Educación Nacional, una por canal de atención: cada una con su infografía y su descarga en PDF."}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.2vxdhhluh43_c.ico","sizes":"64x64","type":"image/x-icon"}],["$","$L24","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@25","v":null,"s":"$15"}},"a":"$@26","u":"$@27","b":"PUWvOJ2VbtEW0imZ3BNHk"}
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2_grfu30_qr1b.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/3os742ifvth-1.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/1m9pfaw0wpl5h.js","async":true}]],["$","html",null,{"lang":"es","className":"czr2iW_variable h-full antialiased","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","$L4",null,{"id":"tema-inicial","strategy":"beforeInteractive","children":"$6"}],["$","$L4",null,{"id":"idioma-inicial","strategy":"beforeInteractive","children":"$8"}],["$","$L4",null,{"id":"accesibilidad-inicial","strategy":"beforeInteractive","children":"$a"}]]}],["$","body",null,{"className":"min-h-full bg-background font-sans text-foreground","children":[["$","$Lb",null,{}],["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}],"notFound":[[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var m=location.pathname.match(/^\\/publicaciones\\/(pqrsdf|canales|tramites|legalizaciones|resoluciones)\\/([^\\/]+\\.pdf)$/);if(m){location.replace(\"/publicaciones-\"+m[1]+\"/\"+m[2]+location.search+location.hash)}}catch(e){}})();"}}],["$","$L11",null,{}]],[]]}],["$","$L13",null,{}]]}]]}]]}],"p":"$@14","v":null,"s":"$15"},"c":"$Q16"},"h":{"r":["$","$1","h",{"children":[null,["$","$L21",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L23",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Encuestas de Satisfacción · Plataforma de Analítica de Datos · Ministerio de Educación Nacional"}],["$","meta","1",{"name":"description","content":"Las encuestas de satisfacción de la atención a la ciudadanía del Ministerio de Educación Nacional, una por canal de atención, cada una con su infografía."}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.2vxdhhluh43_c.ico","sizes":"64x64","type":"image/x-icon"}],["$","$L24","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@25","v":null,"s":"$15"}},"a":"$@26","u":"$@27","b":"yhFPOtGyG_tkpXowEqO18"}
 1e:null
 15:300
 27:true
