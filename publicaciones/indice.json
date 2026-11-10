@@ -1,0 +1,4103 @@
+{
+  "version": 1,
+  "publicaciones": [
+    {
+      "informe": "pqrsdf",
+      "periodo": "2026-T3",
+      "periodicidad": "trimestral",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2026-T3.pdf",
+      "bytes": 1829364,
+      "paginas": 43,
+      "corte": "2026-09-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2026-T2",
+      "periodicidad": "trimestral",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2026-T2.pdf",
+      "bytes": 1759139,
+      "paginas": 42,
+      "corte": "2026-06-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2026-T1",
+      "periodicidad": "trimestral",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2026-T1.pdf",
+      "bytes": 1654602,
+      "paginas": 40,
+      "corte": "2026-03-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2026-10",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2026-10.pdf",
+      "bytes": 1639731,
+      "paginas": 27,
+      "corte": "2026-10-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2026-10",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2026-10.pdf",
+      "bytes": 2299445,
+      "paginas": 42,
+      "corte": "2026-10-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2026-10",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2026-10.pdf",
+      "bytes": 2882839,
+      "paginas": 46,
+      "corte": "2026-10-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2026-10",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2026-10.pdf",
+      "bytes": 4835612,
+      "paginas": 56,
+      "corte": "2026-10-25",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2026-09",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2026-09.pdf",
+      "bytes": 1609794,
+      "paginas": 27,
+      "corte": "2026-09-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2026-09",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2026-09.pdf",
+      "bytes": 1499223,
+      "paginas": 29,
+      "corte": "2026-09-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2026-09",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2026-09.pdf",
+      "bytes": 2257450,
+      "paginas": 43,
+      "corte": "2026-09-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2026-09",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2026-09.pdf",
+      "bytes": 2858127,
+      "paginas": 47,
+      "corte": "2026-09-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2026-09",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2026-09.pdf",
+      "bytes": 4804735,
+      "paginas": 56,
+      "corte": "2026-09-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2026-08",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2026-08.pdf",
+      "bytes": 1633673,
+      "paginas": 27,
+      "corte": "2026-08-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2026-08",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2026-08.pdf",
+      "bytes": 1559032,
+      "paginas": 30,
+      "corte": "2026-08-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2026-08",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2026-08.pdf",
+      "bytes": 2257019,
+      "paginas": 42,
+      "corte": "2026-08-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2026-08",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2026-08.pdf",
+      "bytes": 2845704,
+      "paginas": 46,
+      "corte": "2026-08-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2026-08",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2026-08.pdf",
+      "bytes": 4672162,
+      "paginas": 56,
+      "corte": "2026-08-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2026-07",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2026-07.pdf",
+      "bytes": 1553907,
+      "paginas": 27,
+      "corte": "2026-07-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2026-07",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2026-07.pdf",
+      "bytes": 1503214,
+      "paginas": 30,
+      "corte": "2026-07-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2026-07",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2026-07.pdf",
+      "bytes": 2191691,
+      "paginas": 41,
+      "corte": "2026-07-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2026-07",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2026-07.pdf",
+      "bytes": 2781120,
+      "paginas": 45,
+      "corte": "2026-07-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2026-07",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2026-07.pdf",
+      "bytes": 4475153,
+      "paginas": 56,
+      "corte": "2026-07-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2026-06",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2026-06.pdf",
+      "bytes": 1469610,
+      "paginas": 27,
+      "corte": "2026-06-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2026-06",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2026-06.pdf",
+      "bytes": 1467020,
+      "paginas": 31,
+      "corte": "2026-06-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2026-06",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2026-06.pdf",
+      "bytes": 2124914,
+      "paginas": 41,
+      "corte": "2026-06-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2026-06",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2026-06.pdf",
+      "bytes": 2699598,
+      "paginas": 44,
+      "corte": "2026-06-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2026-06",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2026-06.pdf",
+      "bytes": 4302988,
+      "paginas": 56,
+      "corte": "2026-06-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2026-05",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2026-05.pdf",
+      "bytes": 1401627,
+      "paginas": 27,
+      "corte": "2026-05-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2026-05",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2026-05.pdf",
+      "bytes": 1397775,
+      "paginas": 30,
+      "corte": "2026-05-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2026-05",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2026-05.pdf",
+      "bytes": 2069239,
+      "paginas": 40,
+      "corte": "2026-05-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2026-05",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2026-05.pdf",
+      "bytes": 2628602,
+      "paginas": 43,
+      "corte": "2026-05-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2026-05",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2026-05.pdf",
+      "bytes": 4104497,
+      "paginas": 56,
+      "corte": "2026-05-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2026-04",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2026-04.pdf",
+      "bytes": 1322924,
+      "paginas": 27,
+      "corte": "2026-04-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2026-04",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2026-04.pdf",
+      "bytes": 1353671,
+      "paginas": 28,
+      "corte": "2026-04-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2026-04",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2026-04.pdf",
+      "bytes": 2007322,
+      "paginas": 39,
+      "corte": "2026-04-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2026-04",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2026-04.pdf",
+      "bytes": 2543408,
+      "paginas": 44,
+      "corte": "2026-04-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2026-04",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2026-04.pdf",
+      "bytes": 3998416,
+      "paginas": 55,
+      "corte": "2026-04-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2026-03",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2026-03.pdf",
+      "bytes": 1252227,
+      "paginas": 27,
+      "corte": "2026-03-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2026-03",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2026-03.pdf",
+      "bytes": 1295242,
+      "paginas": 29,
+      "corte": "2026-03-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2026-03",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2026-03.pdf",
+      "bytes": 1947614,
+      "paginas": 40,
+      "corte": "2026-03-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2026-03",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2026-03.pdf",
+      "bytes": 2435670,
+      "paginas": 44,
+      "corte": "2026-03-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2026-03",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2026-03.pdf",
+      "bytes": 3694414,
+      "paginas": 54,
+      "corte": "2026-03-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2026-02",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2026-02.pdf",
+      "bytes": 1166128,
+      "paginas": 27,
+      "corte": "2026-02-28",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2026-02",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2026-02.pdf",
+      "bytes": 1243970,
+      "paginas": 28,
+      "corte": "2026-02-28",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2026-02",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2026-02.pdf",
+      "bytes": 1895849,
+      "paginas": 40,
+      "corte": "2026-02-28",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2026-02",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2026-02.pdf",
+      "bytes": 2352901,
+      "paginas": 44,
+      "corte": "2026-02-28",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2026-02",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2026-02.pdf",
+      "bytes": 3238238,
+      "paginas": 51,
+      "corte": "2026-02-28",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2026-01",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2026-01.pdf",
+      "bytes": 1068728,
+      "paginas": 25,
+      "corte": "2026-01-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2026-01",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2026-01.pdf",
+      "bytes": 1000674,
+      "paginas": 25,
+      "corte": "2026-01-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2026-01",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2026-01.pdf",
+      "bytes": 1773436,
+      "paginas": 39,
+      "corte": "2026-01-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2026-01",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2026-01.pdf",
+      "bytes": 1918252,
+      "paginas": 37,
+      "corte": "2026-01-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2026-01",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2026-01.pdf",
+      "bytes": 3366694,
+      "paginas": 50,
+      "corte": "2026-01-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2025-T4",
+      "periodicidad": "trimestral",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2025-T4.pdf",
+      "bytes": 1918195,
+      "paginas": 41,
+      "corte": "2025-12-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2025-T3",
+      "periodicidad": "trimestral",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2025-T3.pdf",
+      "bytes": 1851121,
+      "paginas": 41,
+      "corte": "2025-09-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2025-T2",
+      "periodicidad": "trimestral",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2025-T2.pdf",
+      "bytes": 1771996,
+      "paginas": 41,
+      "corte": "2025-06-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2025-T1",
+      "periodicidad": "trimestral",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2025-T1.pdf",
+      "bytes": 1621672,
+      "paginas": 40,
+      "corte": "2025-03-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2025-12",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2025-12.pdf",
+      "bytes": 2085091,
+      "paginas": 30,
+      "corte": "2025-12-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2025-12",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2025-12.pdf",
+      "bytes": 1554736,
+      "paginas": 31,
+      "corte": "2025-12-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2025-12",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2025-12.pdf",
+      "bytes": 2322272,
+      "paginas": 39,
+      "corte": "2025-12-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2025-12",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2025-12.pdf",
+      "bytes": 2844812,
+      "paginas": 46,
+      "corte": "2025-12-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2025-12",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2025-12.pdf",
+      "bytes": 4683935,
+      "paginas": 52,
+      "corte": "2025-12-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2025-11",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2025-11.pdf",
+      "bytes": 2103081,
+      "paginas": 30,
+      "corte": "2025-11-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2025-11",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2025-11.pdf",
+      "bytes": 1563511,
+      "paginas": 30,
+      "corte": "2025-11-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2025-11",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2025-11.pdf",
+      "bytes": 2301299,
+      "paginas": 39,
+      "corte": "2025-11-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2025-11",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2025-11.pdf",
+      "bytes": 2834371,
+      "paginas": 46,
+      "corte": "2025-11-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2025-11",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2025-11.pdf",
+      "bytes": 4557464,
+      "paginas": 52,
+      "corte": "2025-11-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2025-10",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2025-10.pdf",
+      "bytes": 2066732,
+      "paginas": 30,
+      "corte": "2025-10-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2025-10",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2025-10.pdf",
+      "bytes": 1547152,
+      "paginas": 29,
+      "corte": "2025-10-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2025-10",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2025-10.pdf",
+      "bytes": 2280096,
+      "paginas": 39,
+      "corte": "2025-10-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2025-10",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2025-10.pdf",
+      "bytes": 2816843,
+      "paginas": 46,
+      "corte": "2025-10-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2025-10",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2025-10.pdf",
+      "bytes": 4472663,
+      "paginas": 52,
+      "corte": "2025-10-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2025-09",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2025-09.pdf",
+      "bytes": 2029836,
+      "paginas": 30,
+      "corte": "2025-09-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2025-09",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2025-09.pdf",
+      "bytes": 1512075,
+      "paginas": 31,
+      "corte": "2025-09-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2025-09",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2025-09.pdf",
+      "bytes": 2233650,
+      "paginas": 40,
+      "corte": "2025-09-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2025-09",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2025-09.pdf",
+      "bytes": 2794400,
+      "paginas": 46,
+      "corte": "2025-09-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2025-09",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2025-09.pdf",
+      "bytes": 4442146,
+      "paginas": 52,
+      "corte": "2025-09-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2025-08",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2025-08.pdf",
+      "bytes": 2070172,
+      "paginas": 30,
+      "corte": "2025-08-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2025-08",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2025-08.pdf",
+      "bytes": 1525501,
+      "paginas": 30,
+      "corte": "2025-08-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2025-08",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2025-08.pdf",
+      "bytes": 2220850,
+      "paginas": 39,
+      "corte": "2025-08-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2025-08",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2025-08.pdf",
+      "bytes": 2785185,
+      "paginas": 45,
+      "corte": "2025-08-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2025-08",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2025-08.pdf",
+      "bytes": 4330715,
+      "paginas": 52,
+      "corte": "2025-08-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2025-07",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2025-07.pdf",
+      "bytes": 1961082,
+      "paginas": 30,
+      "corte": "2025-07-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2025-07",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2025-07.pdf",
+      "bytes": 1502500,
+      "paginas": 30,
+      "corte": "2025-07-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2025-07",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2025-07.pdf",
+      "bytes": 2177598,
+      "paginas": 40,
+      "corte": "2025-07-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2025-07",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2025-07.pdf",
+      "bytes": 2692118,
+      "paginas": 44,
+      "corte": "2025-07-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2025-07",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2025-07.pdf",
+      "bytes": 4090789,
+      "paginas": 52,
+      "corte": "2025-07-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2025-06",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2025-06.pdf",
+      "bytes": 1849586,
+      "paginas": 30,
+      "corte": "2025-06-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2025-06",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2025-06.pdf",
+      "bytes": 1463561,
+      "paginas": 29,
+      "corte": "2025-06-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2025-06",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2025-06.pdf",
+      "bytes": 2114315,
+      "paginas": 39,
+      "corte": "2025-06-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2025-06",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2025-06.pdf",
+      "bytes": 2651743,
+      "paginas": 44,
+      "corte": "2025-06-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2025-06",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2025-06.pdf",
+      "bytes": 3952859,
+      "paginas": 53,
+      "corte": "2025-06-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2025-05",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2025-05.pdf",
+      "bytes": 1755572,
+      "paginas": 30,
+      "corte": "2025-05-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2025-05",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2025-05.pdf",
+      "bytes": 1404667,
+      "paginas": 29,
+      "corte": "2025-05-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2025-05",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2025-05.pdf",
+      "bytes": 2061359,
+      "paginas": 40,
+      "corte": "2025-05-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2025-05",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2025-05.pdf",
+      "bytes": 2585482,
+      "paginas": 43,
+      "corte": "2025-05-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2025-05",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2025-05.pdf",
+      "bytes": 3760036,
+      "paginas": 52,
+      "corte": "2025-05-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2025-04",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2025-04.pdf",
+      "bytes": 1672160,
+      "paginas": 30,
+      "corte": "2025-04-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2025-04",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2025-04.pdf",
+      "bytes": 1368751,
+      "paginas": 30,
+      "corte": "2025-04-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2025-04",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2025-04.pdf",
+      "bytes": 2025697,
+      "paginas": 40,
+      "corte": "2025-04-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2025-04",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2025-04.pdf",
+      "bytes": 2475488,
+      "paginas": 44,
+      "corte": "2025-04-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2025-04",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2025-04.pdf",
+      "bytes": 3636520,
+      "paginas": 52,
+      "corte": "2025-04-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2025-03",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2025-03.pdf",
+      "bytes": 1535500,
+      "paginas": 30,
+      "corte": "2025-03-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2025-03",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2025-03.pdf",
+      "bytes": 1310052,
+      "paginas": 28,
+      "corte": "2025-03-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2025-03",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2025-03.pdf",
+      "bytes": 1970437,
+      "paginas": 39,
+      "corte": "2025-03-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2025-03",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2025-03.pdf",
+      "bytes": 2402038,
+      "paginas": 44,
+      "corte": "2025-03-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2025-03",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2025-03.pdf",
+      "bytes": 3424440,
+      "paginas": 52,
+      "corte": "2025-03-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2025-02",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2025-02.pdf",
+      "bytes": 1393236,
+      "paginas": 30,
+      "corte": "2025-02-28",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2025-02",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2025-02.pdf",
+      "bytes": 1255762,
+      "paginas": 28,
+      "corte": "2025-02-28",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2025-02",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2025-02.pdf",
+      "bytes": 1902810,
+      "paginas": 39,
+      "corte": "2025-02-28",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2025-02",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2025-02.pdf",
+      "bytes": 2301049,
+      "paginas": 44,
+      "corte": "2025-02-28",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2025-02",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2025-02.pdf",
+      "bytes": 3139561,
+      "paginas": 53,
+      "corte": "2025-02-28",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2025-01",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2025-01.pdf",
+      "bytes": 1284442,
+      "paginas": 28,
+      "corte": "2025-01-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2025-01",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2025-01.pdf",
+      "bytes": 999467,
+      "paginas": 25,
+      "corte": "2025-01-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2025-01",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2025-01.pdf",
+      "bytes": 1739364,
+      "paginas": 40,
+      "corte": "2025-01-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2025-01",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2025-01.pdf",
+      "bytes": 1885919,
+      "paginas": 37,
+      "corte": "2025-01-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2025-01",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2025-01.pdf",
+      "bytes": 3428987,
+      "paginas": 54,
+      "corte": "2025-01-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2024-T4",
+      "periodicidad": "trimestral",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2024-T4.pdf",
+      "bytes": 1867677,
+      "paginas": 42,
+      "corte": "2024-12-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2024-T3",
+      "periodicidad": "trimestral",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2024-T3.pdf",
+      "bytes": 1803143,
+      "paginas": 42,
+      "corte": "2024-09-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2024-T2",
+      "periodicidad": "trimestral",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2024-T2.pdf",
+      "bytes": 1749755,
+      "paginas": 41,
+      "corte": "2024-06-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2024-T1",
+      "periodicidad": "trimestral",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2024-T1.pdf",
+      "bytes": 1590753,
+      "paginas": 40,
+      "corte": "2024-03-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2024-12",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2024-12.pdf",
+      "bytes": 2181963,
+      "paginas": 31,
+      "corte": "2024-12-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2024-12",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2024-12.pdf",
+      "bytes": 1582224,
+      "paginas": 30,
+      "corte": "2024-12-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2024-12",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2024-12.pdf",
+      "bytes": 2260612,
+      "paginas": 39,
+      "corte": "2024-12-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2024-12",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2024-12.pdf",
+      "bytes": 2783631,
+      "paginas": 46,
+      "corte": "2024-12-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2024-12",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2024-12.pdf",
+      "bytes": 4718761,
+      "paginas": 53,
+      "corte": "2024-12-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2024-11",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2024-11.pdf",
+      "bytes": 2151586,
+      "paginas": 31,
+      "corte": "2024-11-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2024-11",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2024-11.pdf",
+      "bytes": 1541466,
+      "paginas": 30,
+      "corte": "2024-11-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2024-11",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2024-11.pdf",
+      "bytes": 2225510,
+      "paginas": 40,
+      "corte": "2024-11-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2024-11",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2024-11.pdf",
+      "bytes": 2789797,
+      "paginas": 46,
+      "corte": "2024-11-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2024-11",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2024-11.pdf",
+      "bytes": 4522977,
+      "paginas": 53,
+      "corte": "2024-11-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2024-10",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2024-10.pdf",
+      "bytes": 2120809,
+      "paginas": 31,
+      "corte": "2024-10-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2024-10",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2024-10.pdf",
+      "bytes": 1537572,
+      "paginas": 30,
+      "corte": "2024-10-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2024-10",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2024-10.pdf",
+      "bytes": 2184241,
+      "paginas": 39,
+      "corte": "2024-10-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2024-10",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2024-10.pdf",
+      "bytes": 2791331,
+      "paginas": 46,
+      "corte": "2024-10-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2024-10",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2024-10.pdf",
+      "bytes": 4421413,
+      "paginas": 53,
+      "corte": "2024-10-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2024-09",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2024-09.pdf",
+      "bytes": 2062224,
+      "paginas": 31,
+      "corte": "2024-09-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2024-09",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2024-09.pdf",
+      "bytes": 1501363,
+      "paginas": 31,
+      "corte": "2024-09-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2024-09",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2024-09.pdf",
+      "bytes": 2140455,
+      "paginas": 40,
+      "corte": "2024-09-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2024-09",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2024-09.pdf",
+      "bytes": 2744781,
+      "paginas": 46,
+      "corte": "2024-09-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2024-09",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2024-09.pdf",
+      "bytes": 4379785,
+      "paginas": 53,
+      "corte": "2024-09-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2024-08",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2024-08.pdf",
+      "bytes": 2022779,
+      "paginas": 30,
+      "corte": "2024-08-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2024-08",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2024-08.pdf",
+      "bytes": 1512973,
+      "paginas": 28,
+      "corte": "2024-08-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2024-08",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2024-08.pdf",
+      "bytes": 2151505,
+      "paginas": 40,
+      "corte": "2024-08-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2024-08",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2024-08.pdf",
+      "bytes": 2757255,
+      "paginas": 45,
+      "corte": "2024-08-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2024-08",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2024-08.pdf",
+      "bytes": 4258128,
+      "paginas": 52,
+      "corte": "2024-08-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2024-07",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2024-07.pdf",
+      "bytes": 1964100,
+      "paginas": 30,
+      "corte": "2024-07-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2024-07",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2024-07.pdf",
+      "bytes": 1476687,
+      "paginas": 29,
+      "corte": "2024-07-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2024-07",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2024-07.pdf",
+      "bytes": 2103037,
+      "paginas": 40,
+      "corte": "2024-07-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2024-07",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2024-07.pdf",
+      "bytes": 2691486,
+      "paginas": 44,
+      "corte": "2024-07-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2024-07",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2024-07.pdf",
+      "bytes": 4039767,
+      "paginas": 53,
+      "corte": "2024-07-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2024-06",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2024-06.pdf",
+      "bytes": 1868503,
+      "paginas": 30,
+      "corte": "2024-06-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2024-06",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2024-06.pdf",
+      "bytes": 1443244,
+      "paginas": 28,
+      "corte": "2024-06-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2024-06",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2024-06.pdf",
+      "bytes": 2076462,
+      "paginas": 40,
+      "corte": "2024-06-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2024-06",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2024-06.pdf",
+      "bytes": 2630449,
+      "paginas": 44,
+      "corte": "2024-06-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2024-06",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2024-06.pdf",
+      "bytes": 3920303,
+      "paginas": 52,
+      "corte": "2024-06-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2024-05",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2024-05.pdf",
+      "bytes": 1763924,
+      "paginas": 30,
+      "corte": "2024-05-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2024-05",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2024-05.pdf",
+      "bytes": 1393642,
+      "paginas": 29,
+      "corte": "2024-05-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2024-05",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2024-05.pdf",
+      "bytes": 2020636,
+      "paginas": 40,
+      "corte": "2024-05-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2024-05",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2024-05.pdf",
+      "bytes": 2554948,
+      "paginas": 44,
+      "corte": "2024-05-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2024-05",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2024-05.pdf",
+      "bytes": 3687039,
+      "paginas": 52,
+      "corte": "2024-05-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2024-04",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2024-04.pdf",
+      "bytes": 1670818,
+      "paginas": 30,
+      "corte": "2024-04-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2024-04",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2024-04.pdf",
+      "bytes": 1368041,
+      "paginas": 28,
+      "corte": "2024-04-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2024-04",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2024-04.pdf",
+      "bytes": 1977216,
+      "paginas": 39,
+      "corte": "2024-04-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2024-04",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2024-04.pdf",
+      "bytes": 2502193,
+      "paginas": 44,
+      "corte": "2024-04-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2024-04",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2024-04.pdf",
+      "bytes": 3551109,
+      "paginas": 52,
+      "corte": "2024-04-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2024-03",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2024-03.pdf",
+      "bytes": 1554680,
+      "paginas": 30,
+      "corte": "2024-03-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2024-03",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2024-03.pdf",
+      "bytes": 1323351,
+      "paginas": 29,
+      "corte": "2024-03-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2024-03",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2024-03.pdf",
+      "bytes": 1914701,
+      "paginas": 39,
+      "corte": "2024-03-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2024-03",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2024-03.pdf",
+      "bytes": 2421703,
+      "paginas": 44,
+      "corte": "2024-03-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2024-03",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2024-03.pdf",
+      "bytes": 3279520,
+      "paginas": 53,
+      "corte": "2024-03-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2024-02",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2024-02.pdf",
+      "bytes": 1405542,
+      "paginas": 30,
+      "corte": "2024-02-29",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2024-02",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2024-02.pdf",
+      "bytes": 1289510,
+      "paginas": 28,
+      "corte": "2024-02-29",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2024-02",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2024-02.pdf",
+      "bytes": 1849600,
+      "paginas": 39,
+      "corte": "2024-02-29",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2024-02",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2024-02.pdf",
+      "bytes": 2334879,
+      "paginas": 44,
+      "corte": "2024-02-29",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2024-02",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2024-02.pdf",
+      "bytes": 2873856,
+      "paginas": 53,
+      "corte": "2024-02-29",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2024-01",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2024-01.pdf",
+      "bytes": 1329889,
+      "paginas": 28,
+      "corte": "2024-01-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2024-01",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2024-01.pdf",
+      "bytes": 1001983,
+      "paginas": 25,
+      "corte": "2024-01-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2024-01",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2024-01.pdf",
+      "bytes": 1696097,
+      "paginas": 39,
+      "corte": "2024-01-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2024-01",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2024-01.pdf",
+      "bytes": 1896003,
+      "paginas": 37,
+      "corte": "2024-01-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2024-01",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2024-01.pdf",
+      "bytes": 2941669,
+      "paginas": 52,
+      "corte": "2024-01-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2023-T4",
+      "periodicidad": "trimestral",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2023-T4.pdf",
+      "bytes": 1707722,
+      "paginas": 40,
+      "corte": "2023-12-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2023-T3",
+      "periodicidad": "trimestral",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2023-T3.pdf",
+      "bytes": 1650225,
+      "paginas": 41,
+      "corte": "2023-09-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2023-T2",
+      "periodicidad": "trimestral",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2023-T2.pdf",
+      "bytes": 1578325,
+      "paginas": 39,
+      "corte": "2023-06-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2023-T1",
+      "periodicidad": "trimestral",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2023-T1.pdf",
+      "bytes": 1385957,
+      "paginas": 39,
+      "corte": "2023-03-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2023-12",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2023-12.pdf",
+      "bytes": 1511149,
+      "paginas": 30,
+      "corte": "2023-12-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2023-12",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2023-12.pdf",
+      "bytes": 1599222,
+      "paginas": 31,
+      "corte": "2023-12-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2023-12",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2023-12.pdf",
+      "bytes": 2088516,
+      "paginas": 38,
+      "corte": "2023-12-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2023-12",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2023-12.pdf",
+      "bytes": 2804126,
+      "paginas": 46,
+      "corte": "2023-12-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2023-12",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2023-12.pdf",
+      "bytes": 3584958,
+      "paginas": 47,
+      "corte": "2023-12-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2023-11",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2023-11.pdf",
+      "bytes": 1510452,
+      "paginas": 30,
+      "corte": "2023-11-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2023-11",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2023-11.pdf",
+      "bytes": 1594696,
+      "paginas": 29,
+      "corte": "2023-11-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2023-11",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2023-11.pdf",
+      "bytes": 2088244,
+      "paginas": 39,
+      "corte": "2023-11-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2023-11",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2023-11.pdf",
+      "bytes": 2818927,
+      "paginas": 46,
+      "corte": "2023-11-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2023-11",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2023-11.pdf",
+      "bytes": 3461771,
+      "paginas": 47,
+      "corte": "2023-11-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2023-10",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2023-10.pdf",
+      "bytes": 1504283,
+      "paginas": 30,
+      "corte": "2023-10-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2023-10",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2023-10.pdf",
+      "bytes": 1577827,
+      "paginas": 29,
+      "corte": "2023-10-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2023-10",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2023-10.pdf",
+      "bytes": 2076971,
+      "paginas": 38,
+      "corte": "2023-10-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2023-10",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2023-10.pdf",
+      "bytes": 2809882,
+      "paginas": 46,
+      "corte": "2023-10-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2023-10",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2023-10.pdf",
+      "bytes": 3364151,
+      "paginas": 47,
+      "corte": "2023-10-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2023-09",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2023-09.pdf",
+      "bytes": 1468720,
+      "paginas": 30,
+      "corte": "2023-09-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2023-09",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2023-09.pdf",
+      "bytes": 1578349,
+      "paginas": 30,
+      "corte": "2023-09-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2023-09",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2023-09.pdf",
+      "bytes": 2025755,
+      "paginas": 39,
+      "corte": "2023-09-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2023-09",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2023-09.pdf",
+      "bytes": 2772067,
+      "paginas": 46,
+      "corte": "2023-09-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2023-09",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2023-09.pdf",
+      "bytes": 3320811,
+      "paginas": 47,
+      "corte": "2023-09-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2023-08",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2023-08.pdf",
+      "bytes": 1529040,
+      "paginas": 30,
+      "corte": "2023-08-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2023-08",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2023-08.pdf",
+      "bytes": 1586222,
+      "paginas": 30,
+      "corte": "2023-08-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2023-08",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2023-08.pdf",
+      "bytes": 2031594,
+      "paginas": 38,
+      "corte": "2023-08-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2023-08",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2023-08.pdf",
+      "bytes": 2785701,
+      "paginas": 46,
+      "corte": "2023-08-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2023-08",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2023-08.pdf",
+      "bytes": 3201646,
+      "paginas": 47,
+      "corte": "2023-08-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2023-07",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2023-07.pdf",
+      "bytes": 1443785,
+      "paginas": 30,
+      "corte": "2023-07-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2023-07",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2023-07.pdf",
+      "bytes": 1564260,
+      "paginas": 29,
+      "corte": "2023-07-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2023-07",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2023-07.pdf",
+      "bytes": 2003249,
+      "paginas": 39,
+      "corte": "2023-07-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2023-07",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2023-07.pdf",
+      "bytes": 2696483,
+      "paginas": 44,
+      "corte": "2023-07-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2023-07",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2023-07.pdf",
+      "bytes": 3022338,
+      "paginas": 47,
+      "corte": "2023-07-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2023-06",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2023-06.pdf",
+      "bytes": 1353769,
+      "paginas": 30,
+      "corte": "2023-06-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2023-06",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2023-06.pdf",
+      "bytes": 1514922,
+      "paginas": 30,
+      "corte": "2023-06-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2023-06",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2023-06.pdf",
+      "bytes": 1955880,
+      "paginas": 38,
+      "corte": "2023-06-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2023-06",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2023-06.pdf",
+      "bytes": 2628349,
+      "paginas": 44,
+      "corte": "2023-06-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2023-06",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2023-06.pdf",
+      "bytes": 2853888,
+      "paginas": 47,
+      "corte": "2023-06-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2023-05",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2023-05.pdf",
+      "bytes": 1284847,
+      "paginas": 30,
+      "corte": "2023-05-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2023-05",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2023-05.pdf",
+      "bytes": 1432724,
+      "paginas": 31,
+      "corte": "2023-05-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2023-05",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2023-05.pdf",
+      "bytes": 1951811,
+      "paginas": 38,
+      "corte": "2023-05-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2023-05",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2023-05.pdf",
+      "bytes": 2550546,
+      "paginas": 44,
+      "corte": "2023-05-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2023-05",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2023-05.pdf",
+      "bytes": 2654341,
+      "paginas": 47,
+      "corte": "2023-05-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2023-04",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2023-04.pdf",
+      "bytes": 1218380,
+      "paginas": 30,
+      "corte": "2023-04-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2023-04",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2023-04.pdf",
+      "bytes": 1403657,
+      "paginas": 30,
+      "corte": "2023-04-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2023-04",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2023-04.pdf",
+      "bytes": 1885284,
+      "paginas": 38,
+      "corte": "2023-04-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2023-04",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2023-04.pdf",
+      "bytes": 2490112,
+      "paginas": 44,
+      "corte": "2023-04-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2023-04",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2023-04.pdf",
+      "bytes": 2372676,
+      "paginas": 47,
+      "corte": "2023-04-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2023-03",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2023-03.pdf",
+      "bytes": 1078892,
+      "paginas": 29,
+      "corte": "2023-03-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2023-03",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2023-03.pdf",
+      "bytes": 1311034,
+      "paginas": 29,
+      "corte": "2023-03-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2023-03",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2023-03.pdf",
+      "bytes": 1828939,
+      "paginas": 39,
+      "corte": "2023-03-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2023-03",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2023-03.pdf",
+      "bytes": 2407425,
+      "paginas": 44,
+      "corte": "2023-03-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2023-03",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2023-03.pdf",
+      "bytes": 1966533,
+      "paginas": 45,
+      "corte": "2023-03-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2023-02",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2023-02.pdf",
+      "bytes": 1009019,
+      "paginas": 29,
+      "corte": "2023-02-28",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2023-02",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2023-02.pdf",
+      "bytes": 1285569,
+      "paginas": 28,
+      "corte": "2023-02-28",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2023-02",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2023-02.pdf",
+      "bytes": 1754370,
+      "paginas": 38,
+      "corte": "2023-02-28",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2023-02",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2023-02.pdf",
+      "bytes": 2316903,
+      "paginas": 44,
+      "corte": "2023-02-28",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2023-02",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2023-02.pdf",
+      "bytes": 1235252,
+      "paginas": 35,
+      "corte": "2023-02-28",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "tramites",
+      "periodo": "2023-01",
+      "titulo": {
+        "es": "Informe de Trámites",
+        "en": "Procedures Report"
+      },
+      "archivo": "tramites/informe-tramites-2023-01.pdf",
+      "bytes": 439748,
+      "paginas": 19,
+      "corte": "2023-01-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2023-01",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2023-01.pdf",
+      "bytes": 996550,
+      "paginas": 25,
+      "corte": "2023-01-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2023-01",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2023-01.pdf",
+      "bytes": 1642601,
+      "paginas": 38,
+      "corte": "2023-01-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2023-01",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2023-01.pdf",
+      "bytes": 1875097,
+      "paginas": 37,
+      "corte": "2023-01-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "canales",
+      "periodo": "2023-01",
+      "titulo": {
+        "es": "Informe de Canales de Atención",
+        "en": "Service Channels Report"
+      },
+      "archivo": "canales/informe-canales-atencion-2023-01.pdf",
+      "bytes": 310810,
+      "paginas": 22,
+      "corte": "2023-01-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2022-T4",
+      "periodicidad": "trimestral",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2022-T4.pdf",
+      "bytes": 1479520,
+      "paginas": 39,
+      "corte": "2022-12-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2022-T3",
+      "periodicidad": "trimestral",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2022-T3.pdf",
+      "bytes": 1260322,
+      "paginas": 36,
+      "corte": "2022-09-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2022-T2",
+      "periodicidad": "trimestral",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2022-T2.pdf",
+      "bytes": 1179274,
+      "paginas": 35,
+      "corte": "2022-06-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2022-T1",
+      "periodicidad": "trimestral",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2022-T1.pdf",
+      "bytes": 973893,
+      "paginas": 30,
+      "corte": "2022-03-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2022-12",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2022-12.pdf",
+      "bytes": 1490447,
+      "paginas": 30,
+      "corte": "2022-12-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2022-12",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2022-12.pdf",
+      "bytes": 1967907,
+      "paginas": 38,
+      "corte": "2022-12-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2022-12",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2022-12.pdf",
+      "bytes": 2634225,
+      "paginas": 44,
+      "corte": "2022-12-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2022-11",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2022-11.pdf",
+      "bytes": 1445512,
+      "paginas": 29,
+      "corte": "2022-11-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2022-11",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2022-11.pdf",
+      "bytes": 1940000,
+      "paginas": 38,
+      "corte": "2022-11-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2022-11",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2022-11.pdf",
+      "bytes": 2630526,
+      "paginas": 44,
+      "corte": "2022-11-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2022-10",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2022-10.pdf",
+      "bytes": 1442715,
+      "paginas": 30,
+      "corte": "2022-10-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2022-10",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2022-10.pdf",
+      "bytes": 1907780,
+      "paginas": 38,
+      "corte": "2022-10-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2022-10",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2022-10.pdf",
+      "bytes": 2581599,
+      "paginas": 44,
+      "corte": "2022-10-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2022-09",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2022-09.pdf",
+      "bytes": 1413155,
+      "paginas": 29,
+      "corte": "2022-09-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2022-09",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2022-09.pdf",
+      "bytes": 1816244,
+      "paginas": 38,
+      "corte": "2022-09-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2022-09",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2022-09.pdf",
+      "bytes": 2558120,
+      "paginas": 44,
+      "corte": "2022-09-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2022-08",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2022-08.pdf",
+      "bytes": 1452371,
+      "paginas": 29,
+      "corte": "2022-08-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2022-08",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2022-08.pdf",
+      "bytes": 1825011,
+      "paginas": 38,
+      "corte": "2022-08-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2022-08",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2022-08.pdf",
+      "bytes": 2538902,
+      "paginas": 44,
+      "corte": "2022-08-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2022-07",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2022-07.pdf",
+      "bytes": 1428455,
+      "paginas": 30,
+      "corte": "2022-07-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2022-07",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2022-07.pdf",
+      "bytes": 1728460,
+      "paginas": 38,
+      "corte": "2022-07-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2022-07",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2022-07.pdf",
+      "bytes": 2473788,
+      "paginas": 42,
+      "corte": "2022-07-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2022-06",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2022-06.pdf",
+      "bytes": 1362883,
+      "paginas": 31,
+      "corte": "2022-06-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2022-06",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2022-06.pdf",
+      "bytes": 1661691,
+      "paginas": 38,
+      "corte": "2022-06-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2022-06",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2022-06.pdf",
+      "bytes": 2398031,
+      "paginas": 42,
+      "corte": "2022-06-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2022-05",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2022-05.pdf",
+      "bytes": 1339458,
+      "paginas": 31,
+      "corte": "2022-05-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2022-05",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2022-05.pdf",
+      "bytes": 1592380,
+      "paginas": 38,
+      "corte": "2022-05-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2022-05",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2022-05.pdf",
+      "bytes": 2324275,
+      "paginas": 42,
+      "corte": "2022-05-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2022-04",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2022-04.pdf",
+      "bytes": 1292322,
+      "paginas": 29,
+      "corte": "2022-04-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2022-04",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2022-04.pdf",
+      "bytes": 1515467,
+      "paginas": 38,
+      "corte": "2022-04-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2022-04",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2022-04.pdf",
+      "bytes": 2223412,
+      "paginas": 42,
+      "corte": "2022-04-30",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2022-03",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2022-03.pdf",
+      "bytes": 1164298,
+      "paginas": 28,
+      "corte": "2022-03-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2022-03",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2022-03.pdf",
+      "bytes": 1250055,
+      "paginas": 34,
+      "corte": "2022-03-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2022-03",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2022-03.pdf",
+      "bytes": 2067505,
+      "paginas": 40,
+      "corte": "2022-03-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2022-02",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2022-02.pdf",
+      "bytes": 1146579,
+      "paginas": 27,
+      "corte": "2022-02-28",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2022-02",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2022-02.pdf",
+      "bytes": 1169009,
+      "paginas": 35,
+      "corte": "2022-02-28",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2022-02",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2022-02.pdf",
+      "bytes": 1970956,
+      "paginas": 40,
+      "corte": "2022-02-28",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "resoluciones",
+      "periodo": "2022-01",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "resoluciones/informe-resoluciones-autos-2022-01.pdf",
+      "bytes": 681801,
+      "paginas": 21,
+      "corte": "2022-01-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "pqrsdf",
+      "periodo": "2022-01",
+      "periodicidad": "mensual",
+      "titulo": {
+        "es": "Informe General de PQRSDF",
+        "en": "PQRSDF General Report"
+      },
+      "archivo": "pqrsdf/informe-general-pqrsdf-2022-01.pdf",
+      "bytes": 951875,
+      "paginas": 30,
+      "corte": "2022-01-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    },
+    {
+      "informe": "legalizaciones",
+      "periodo": "2022-01",
+      "titulo": {
+        "es": "Informe de Legalizaciones",
+        "en": "Legalizations Report"
+      },
+      "archivo": "legalizaciones/informe-legalizaciones-2022-01.pdf",
+      "bytes": 1343052,
+      "paginas": 29,
+      "corte": "2022-01-31",
+      "actualizacion_id": 81,
+      "generado_en": "2026-11-05"
+    }
+  ],
+  "actualizado_en": "2026-11-09T09:56:10-05:00",
+  "portadas": {
+    "pqrsdf": {
+      "archivo": "pqrsdf/portada.png",
+      "periodo": "2026-10",
+      "ancho": 1224,
+      "alto": 942,
+      "bytes": 76352
+    },
+    "comunicaciones": {
+      "archivo": "comunicaciones/portada.png",
+      "periodo": "2026-10",
+      "ancho": 1224,
+      "alto": 942,
+      "bytes": 78802
+    },
+    "canales": {
+      "archivo": "canales/portada.png",
+      "periodo": "2026-10",
+      "ancho": 1224,
+      "alto": 942,
+      "bytes": 78533
+    },
+    "tramites": {
+      "archivo": "tramites/portada.png",
+      "periodo": "2026-10",
+      "ancho": 1224,
+      "alto": 942,
+      "bytes": 73654
+    },
+    "legalizaciones": {
+      "archivo": "legalizaciones/portada.png",
+      "periodo": "2026-10",
+      "ancho": 1224,
+      "alto": 942,
+      "bytes": 79893
+    },
+    "resoluciones": {
+      "archivo": "resoluciones/portada.png",
+      "periodo": "2026-09",
+      "ancho": 1224,
+      "alto": 942,
+      "bytes": 78929
+    }
+  }
+}
