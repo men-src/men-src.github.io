@@ -65,6 +65,21 @@
       "sitio": "https://men-src.github.io/publicaciones-tramites"
     },
     {
+      "informe": "resoluciones",
+      "periodo": "2026-10",
+      "titulo": {
+        "es": "Informe de Resoluciones y Autos",
+        "en": "Resolutions and Orders Report"
+      },
+      "archivo": "informe-resoluciones-autos-2026-10.pdf",
+      "sitio": "https://men-src.github.io/publicaciones-resoluciones",
+      "bytes": 1566585,
+      "paginas": 31,
+      "corte": "2026-10-31",
+      "actualizacion_id": 101,
+      "generado_en": "2026-11-11"
+    },
+    {
       "informe": "pqrsdf",
       "periodo": "2026-10",
       "periodicidad": "mensual",
@@ -133,12 +148,12 @@
         "en": "Resolutions and Orders Report"
       },
       "archivo": "informe-resoluciones-autos-2026-09.pdf",
-      "bytes": 1499223,
+      "sitio": "https://men-src.github.io/publicaciones-resoluciones",
+      "bytes": 1500513,
       "paginas": 29,
       "corte": "2026-09-30",
-      "actualizacion_id": 81,
-      "generado_en": "2026-11-05",
-      "sitio": "https://men-src.github.io/publicaciones-resoluciones"
+      "actualizacion_id": 101,
+      "generado_en": "2026-11-11"
     },
     {
       "informe": "pqrsdf",
@@ -4339,7 +4354,7 @@
       "sitio": "https://men-src.github.io/publicaciones-legalizaciones"
     }
   ],
-  "actualizado_en": "2026-11-10T13:28:11-05:00",
+  "actualizado_en": "2026-11-11T10:13:13-05:00",
   "portadas": {
     "pqrsdf": {
       "archivo": "pqrsdf/portada.png",
@@ -4378,10 +4393,10 @@
     },
     "resoluciones": {
       "archivo": "resoluciones/portada.png",
-      "periodo": "2026-09",
+      "periodo": "2026-10",
       "ancho": 1224,
       "alto": 942,
-      "bytes": 78929
+      "bytes": 78745
     }
   }
 }
