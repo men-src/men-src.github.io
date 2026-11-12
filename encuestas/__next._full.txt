@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:"/_next/static/chunks/1n908gpmpgu2y.js"
+2:"/_next/static/chunks/3s_49u2ugusiu.js"
 3:"/_next/static/chunks/1m9pfaw0wpl5h.js"
 4:I[79520,["$2","$3"],""]
 5:"SCRIPT_TEMA_INICIAL"
@@ -11,13 +11,13 @@ a:I[55954,["$2","$3"],"$9"]
 b:I[9873,["$2","$3"],"FondoVivo"]
 c:I[39756,["$2","$3"],"default"]
 d:I[37457,["$2","$3"],"default"]
-e:"/_next/static/chunks/3aq2lvf1voqoo.js"
+e:"/_next/static/chunks/174_y10s7z625.js"
 f:"/_next/static/chunks/2-ani7plxe_nm.js"
 10:"PaginaNoEncontrada"
 11:I[29085,["$2","$3","$e","$f"],"$10"]
 12:"BarraAccesibilidad"
 13:I[52315,["$2","$3"],"$12"]
-17:"/_next/static/chunks/12pbz94z5jmwp.js"
+17:"/_next/static/chunks/2dm-xf5s5khzl.js"
 18:I[52197,["$2","$3","$17","$f"],"PaginaEncuestas"]
 19:I[97367,["$2","$3"],"OutletBoundary"]
 1a:"$Sreact.suspense"
@@ -26,12 +26,12 @@ f:"/_next/static/chunks/2-ani7plxe_nm.js"
 1f:"MetadataBoundary"
 20:I[97367,["$2","$3"],"$1f"]
 22:I[68027,["$2","$3"],"default",1]
-:HL["/_next/static/chunks/2_grfu30_qr1b.css","style"]
+:HL["/_next/static/chunks/3e3he07s1tqxz.css","style"]
 :HL["/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 15:X
-16:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$L18",null,{}],[["$","script","script-0",{"src":"/_next/static/chunks/12pbz94z5jmwp.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/2-ani7plxe_nm.js","async":true,"nonce":"$undefined"}]],["$","$L19",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]]}],"p":false,"v":null}}]]
+16:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$L18",null,{}],[["$","script","script-0",{"src":"/_next/static/chunks/2dm-xf5s5khzl.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/2-ani7plxe_nm.js","async":true,"nonce":"$undefined"}]],["$","$L19",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]]}],"p":false,"v":null}}]]
 14:[["children",{"s":"encuestas","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Ld",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$15"},"c":"$Q16"}]]
-0:{"P":null,"c":["","encuestas",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2_grfu30_qr1b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1n908gpmpgu2y.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/1m9pfaw0wpl5h.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"es","className":"czr2iW_variable h-full antialiased","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","$L4",null,{"id":"tema-inicial","strategy":"beforeInteractive","children":"$6"}],["$","$L4",null,{"id":"idioma-inicial","strategy":"beforeInteractive","children":"$8"}],["$","$L4",null,{"id":"accesibilidad-inicial","strategy":"beforeInteractive","children":"$a"}]]}],["$","body",null,{"className":"min-h-full bg-background font-sans text-foreground","children":[["$","$Lb",null,{}],["$","$Lc",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Ld",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var m=location.pathname.match(/^\\/publicaciones\\/(pqrsdf|canales|tramites|legalizaciones|resoluciones)\\/([^\\/]+\\.pdf)$/);if(m){location.replace(\"/publicaciones-\"+m[1]+\"/\"+m[2]+location.search+location.hash)}}catch(e){}})();"}}],["$","$L11",null,{}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L13",null,{}]]}]]}]]}],"p":false,"v":null},"c":"$Q14"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1d",null,{"children":"$L1e"}],["$","$L20",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1a",null,{"name":"Next.Metadata","children":"$L21"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$22",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2_grfu30_qr1b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"QYF6_cxZ3U7U7j-HiDBYp"}
+0:{"P":null,"c":["","encuestas",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3e3he07s1tqxz.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/3s_49u2ugusiu.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/1m9pfaw0wpl5h.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"es","className":"czr2iW_variable h-full antialiased","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","$L4",null,{"id":"tema-inicial","strategy":"beforeInteractive","children":"$6"}],["$","$L4",null,{"id":"idioma-inicial","strategy":"beforeInteractive","children":"$8"}],["$","$L4",null,{"id":"accesibilidad-inicial","strategy":"beforeInteractive","children":"$a"}]]}],["$","body",null,{"className":"min-h-full bg-background font-sans text-foreground","children":[["$","$Lb",null,{}],["$","$Lc",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Ld",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var m=location.pathname.match(/^\\/publicaciones\\/(pqrsdf|canales|tramites|legalizaciones|resoluciones)\\/([^\\/]+\\.pdf)$/);if(m){location.replace(\"/publicaciones-\"+m[1]+\"/\"+m[2]+location.search+location.hash)}}catch(e){}})();"}}],["$","$L11",null,{}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L13",null,{}]]}]]}]]}],"p":false,"v":null},"c":"$Q14"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1d",null,{"children":"$L1e"}],["$","$L20",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1a",null,{"name":"Next.Metadata","children":"$L21"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$22",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3e3he07s1tqxz.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"g7uPz9PdmGNZbxyug8RBw"}
 15:C
 1e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 23:I[27201,["$2","$3"],"IconMark"]
