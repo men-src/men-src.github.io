@@ -65,6 +65,21 @@
       "sitio": "https://men-src.github.io/publicaciones-tramites"
     },
     {
+      "informe": "satisfaccion",
+      "periodo": "2026-10",
+      "titulo": {
+        "es": "Informe de Satisfacción Ciudadana",
+        "en": "Citizen Satisfaction Report"
+      },
+      "archivo": "informe-satisfaccion-2026-10.pdf",
+      "sitio": "https://men-src.github.io/publicaciones-satisfaccion",
+      "bytes": 963602,
+      "paginas": 25,
+      "corte": "2026-10-31",
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-13"
+    },
+    {
       "informe": "resoluciones",
       "periodo": "2026-10",
       "titulo": {
@@ -139,6 +154,21 @@
       "actualizacion_id": 81,
       "generado_en": "2026-11-05",
       "sitio": "https://men-src.github.io/publicaciones-tramites"
+    },
+    {
+      "informe": "satisfaccion",
+      "periodo": "2026-09",
+      "titulo": {
+        "es": "Informe de Satisfacción Ciudadana",
+        "en": "Citizen Satisfaction Report"
+      },
+      "archivo": "informe-satisfaccion-2026-09.pdf",
+      "sitio": "https://men-src.github.io/publicaciones-satisfaccion",
+      "bytes": 754077,
+      "paginas": 22,
+      "corte": "2026-09-30",
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-13"
     },
     {
       "informe": "resoluciones",
@@ -217,6 +247,21 @@
       "sitio": "https://men-src.github.io/publicaciones-tramites"
     },
     {
+      "informe": "satisfaccion",
+      "periodo": "2026-08",
+      "titulo": {
+        "es": "Informe de Satisfacción Ciudadana",
+        "en": "Citizen Satisfaction Report"
+      },
+      "archivo": "informe-satisfaccion-2026-08.pdf",
+      "sitio": "https://men-src.github.io/publicaciones-satisfaccion",
+      "bytes": 738333,
+      "paginas": 22,
+      "corte": "2026-08-31",
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-13"
+    },
+    {
       "informe": "resoluciones",
       "periodo": "2026-08",
       "titulo": {
@@ -291,6 +336,21 @@
       "actualizacion_id": 81,
       "generado_en": "2026-11-05",
       "sitio": "https://men-src.github.io/publicaciones-tramites"
+    },
+    {
+      "informe": "satisfaccion",
+      "periodo": "2026-07",
+      "titulo": {
+        "es": "Informe de Satisfacción Ciudadana",
+        "en": "Citizen Satisfaction Report"
+      },
+      "archivo": "informe-satisfaccion-2026-07.pdf",
+      "sitio": "https://men-src.github.io/publicaciones-satisfaccion",
+      "bytes": 730243,
+      "paginas": 22,
+      "corte": "2026-07-31",
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-13"
     },
     {
       "informe": "resoluciones",
@@ -369,6 +429,21 @@
       "sitio": "https://men-src.github.io/publicaciones-tramites"
     },
     {
+      "informe": "satisfaccion",
+      "periodo": "2026-06",
+      "titulo": {
+        "es": "Informe de Satisfacción Ciudadana",
+        "en": "Citizen Satisfaction Report"
+      },
+      "archivo": "informe-satisfaccion-2026-06.pdf",
+      "sitio": "https://men-src.github.io/publicaciones-satisfaccion",
+      "bytes": 639778,
+      "paginas": 20,
+      "corte": "2026-06-30",
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-13"
+    },
+    {
       "informe": "resoluciones",
       "periodo": "2026-06",
       "titulo": {
@@ -443,6 +518,21 @@
       "actualizacion_id": 81,
       "generado_en": "2026-11-05",
       "sitio": "https://men-src.github.io/publicaciones-tramites"
+    },
+    {
+      "informe": "satisfaccion",
+      "periodo": "2026-05",
+      "titulo": {
+        "es": "Informe de Satisfacción Ciudadana",
+        "en": "Citizen Satisfaction Report"
+      },
+      "archivo": "informe-satisfaccion-2026-05.pdf",
+      "sitio": "https://men-src.github.io/publicaciones-satisfaccion",
+      "bytes": 611440,
+      "paginas": 20,
+      "corte": "2026-05-31",
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-13"
     },
     {
       "informe": "resoluciones",
@@ -521,6 +611,21 @@
       "sitio": "https://men-src.github.io/publicaciones-tramites"
     },
     {
+      "informe": "satisfaccion",
+      "periodo": "2026-04",
+      "titulo": {
+        "es": "Informe de Satisfacción Ciudadana",
+        "en": "Citizen Satisfaction Report"
+      },
+      "archivo": "informe-satisfaccion-2026-04.pdf",
+      "sitio": "https://men-src.github.io/publicaciones-satisfaccion",
+      "bytes": 589761,
+      "paginas": 19,
+      "corte": "2026-04-30",
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-13"
+    },
+    {
       "informe": "resoluciones",
       "periodo": "2026-04",
       "titulo": {
@@ -595,6 +700,21 @@
       "actualizacion_id": 81,
       "generado_en": "2026-11-05",
       "sitio": "https://men-src.github.io/publicaciones-tramites"
+    },
+    {
+      "informe": "satisfaccion",
+      "periodo": "2026-03",
+      "titulo": {
+        "es": "Informe de Satisfacción Ciudadana",
+        "en": "Citizen Satisfaction Report"
+      },
+      "archivo": "informe-satisfaccion-2026-03.pdf",
+      "sitio": "https://men-src.github.io/publicaciones-satisfaccion",
+      "bytes": 463720,
+      "paginas": 16,
+      "corte": "2026-03-31",
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-13"
     },
     {
       "informe": "resoluciones",
@@ -673,6 +793,21 @@
       "sitio": "https://men-src.github.io/publicaciones-tramites"
     },
     {
+      "informe": "satisfaccion",
+      "periodo": "2026-02",
+      "titulo": {
+        "es": "Informe de Satisfacción Ciudadana",
+        "en": "Citizen Satisfaction Report"
+      },
+      "archivo": "informe-satisfaccion-2026-02.pdf",
+      "sitio": "https://men-src.github.io/publicaciones-satisfaccion",
+      "bytes": 469501,
+      "paginas": 16,
+      "corte": "2026-02-28",
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-13"
+    },
+    {
       "informe": "resoluciones",
       "periodo": "2026-02",
       "titulo": {
@@ -747,6 +882,21 @@
       "actualizacion_id": 81,
       "generado_en": "2026-11-05",
       "sitio": "https://men-src.github.io/publicaciones-tramites"
+    },
+    {
+      "informe": "satisfaccion",
+      "periodo": "2026-01",
+      "titulo": {
+        "es": "Informe de Satisfacción Ciudadana",
+        "en": "Citizen Satisfaction Report"
+      },
+      "archivo": "informe-satisfaccion-2026-01.pdf",
+      "sitio": "https://men-src.github.io/publicaciones-satisfaccion",
+      "bytes": 457531,
+      "paginas": 16,
+      "corte": "2026-01-31",
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-13"
     },
     {
       "informe": "resoluciones",
@@ -889,6 +1039,21 @@
       "sitio": "https://men-src.github.io/publicaciones-tramites"
     },
     {
+      "informe": "satisfaccion",
+      "periodo": "2025-12",
+      "titulo": {
+        "es": "Informe de Satisfacción Ciudadana",
+        "en": "Citizen Satisfaction Report"
+      },
+      "archivo": "informe-satisfaccion-2025-12.pdf",
+      "sitio": "https://men-src.github.io/publicaciones-satisfaccion",
+      "bytes": 348419,
+      "paginas": 13,
+      "corte": "2025-12-31",
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-13"
+    },
+    {
       "informe": "resoluciones",
       "periodo": "2025-12",
       "titulo": {
@@ -963,6 +1128,21 @@
       "actualizacion_id": 81,
       "generado_en": "2026-11-05",
       "sitio": "https://men-src.github.io/publicaciones-tramites"
+    },
+    {
+      "informe": "satisfaccion",
+      "periodo": "2025-11",
+      "titulo": {
+        "es": "Informe de Satisfacción Ciudadana",
+        "en": "Citizen Satisfaction Report"
+      },
+      "archivo": "informe-satisfaccion-2025-11.pdf",
+      "sitio": "https://men-src.github.io/publicaciones-satisfaccion",
+      "bytes": 338455,
+      "paginas": 13,
+      "corte": "2025-11-30",
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-13"
     },
     {
       "informe": "resoluciones",
@@ -1573,6 +1753,21 @@
       "sitio": "https://men-src.github.io/publicaciones-tramites"
     },
     {
+      "informe": "satisfaccion",
+      "periodo": "2025-03",
+      "titulo": {
+        "es": "Informe de Satisfacción Ciudadana",
+        "en": "Citizen Satisfaction Report"
+      },
+      "archivo": "informe-satisfaccion-2025-03.pdf",
+      "sitio": "https://men-src.github.io/publicaciones-satisfaccion",
+      "bytes": 334142,
+      "paginas": 13,
+      "corte": "2025-03-31",
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-13"
+    },
+    {
       "informe": "resoluciones",
       "periodo": "2025-03",
       "titulo": {
@@ -1649,6 +1844,21 @@
       "sitio": "https://men-src.github.io/publicaciones-tramites"
     },
     {
+      "informe": "satisfaccion",
+      "periodo": "2025-02",
+      "titulo": {
+        "es": "Informe de Satisfacción Ciudadana",
+        "en": "Citizen Satisfaction Report"
+      },
+      "archivo": "informe-satisfaccion-2025-02.pdf",
+      "sitio": "https://men-src.github.io/publicaciones-satisfaccion",
+      "bytes": 328538,
+      "paginas": 13,
+      "corte": "2025-02-28",
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-13"
+    },
+    {
       "informe": "resoluciones",
       "periodo": "2025-02",
       "titulo": {
@@ -1723,6 +1933,21 @@
       "actualizacion_id": 81,
       "generado_en": "2026-11-05",
       "sitio": "https://men-src.github.io/publicaciones-tramites"
+    },
+    {
+      "informe": "satisfaccion",
+      "periodo": "2025-01",
+      "titulo": {
+        "es": "Informe de Satisfacción Ciudadana",
+        "en": "Citizen Satisfaction Report"
+      },
+      "archivo": "informe-satisfaccion-2025-01.pdf",
+      "sitio": "https://men-src.github.io/publicaciones-satisfaccion",
+      "bytes": 314855,
+      "paginas": 13,
+      "corte": "2025-01-31",
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-13"
     },
     {
       "informe": "resoluciones",
@@ -1865,6 +2090,21 @@
       "sitio": "https://men-src.github.io/publicaciones-tramites"
     },
     {
+      "informe": "satisfaccion",
+      "periodo": "2024-12",
+      "titulo": {
+        "es": "Informe de Satisfacción Ciudadana",
+        "en": "Citizen Satisfaction Report"
+      },
+      "archivo": "informe-satisfaccion-2024-12.pdf",
+      "sitio": "https://men-src.github.io/publicaciones-satisfaccion",
+      "bytes": 361558,
+      "paginas": 13,
+      "corte": "2024-12-31",
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-13"
+    },
+    {
       "informe": "resoluciones",
       "periodo": "2024-12",
       "titulo": {
@@ -1939,6 +2179,21 @@
       "actualizacion_id": 81,
       "generado_en": "2026-11-05",
       "sitio": "https://men-src.github.io/publicaciones-tramites"
+    },
+    {
+      "informe": "satisfaccion",
+      "periodo": "2024-11",
+      "titulo": {
+        "es": "Informe de Satisfacción Ciudadana",
+        "en": "Citizen Satisfaction Report"
+      },
+      "archivo": "informe-satisfaccion-2024-11.pdf",
+      "sitio": "https://men-src.github.io/publicaciones-satisfaccion",
+      "bytes": 359706,
+      "paginas": 13,
+      "corte": "2024-11-30",
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-13"
     },
     {
       "informe": "resoluciones",
@@ -2017,6 +2272,21 @@
       "sitio": "https://men-src.github.io/publicaciones-tramites"
     },
     {
+      "informe": "satisfaccion",
+      "periodo": "2024-10",
+      "titulo": {
+        "es": "Informe de Satisfacción Ciudadana",
+        "en": "Citizen Satisfaction Report"
+      },
+      "archivo": "informe-satisfaccion-2024-10.pdf",
+      "sitio": "https://men-src.github.io/publicaciones-satisfaccion",
+      "bytes": 358460,
+      "paginas": 13,
+      "corte": "2024-10-31",
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-13"
+    },
+    {
       "informe": "resoluciones",
       "periodo": "2024-10",
       "titulo": {
@@ -2091,6 +2361,21 @@
       "actualizacion_id": 81,
       "generado_en": "2026-11-05",
       "sitio": "https://men-src.github.io/publicaciones-tramites"
+    },
+    {
+      "informe": "satisfaccion",
+      "periodo": "2024-09",
+      "titulo": {
+        "es": "Informe de Satisfacción Ciudadana",
+        "en": "Citizen Satisfaction Report"
+      },
+      "archivo": "informe-satisfaccion-2024-09.pdf",
+      "sitio": "https://men-src.github.io/publicaciones-satisfaccion",
+      "bytes": 356840,
+      "paginas": 13,
+      "corte": "2024-09-30",
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-13"
     },
     {
       "informe": "resoluciones",
@@ -2169,6 +2454,21 @@
       "sitio": "https://men-src.github.io/publicaciones-tramites"
     },
     {
+      "informe": "satisfaccion",
+      "periodo": "2024-08",
+      "titulo": {
+        "es": "Informe de Satisfacción Ciudadana",
+        "en": "Citizen Satisfaction Report"
+      },
+      "archivo": "informe-satisfaccion-2024-08.pdf",
+      "sitio": "https://men-src.github.io/publicaciones-satisfaccion",
+      "bytes": 353654,
+      "paginas": 13,
+      "corte": "2024-08-31",
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-13"
+    },
+    {
       "informe": "resoluciones",
       "periodo": "2024-08",
       "titulo": {
@@ -2243,6 +2543,21 @@
       "actualizacion_id": 81,
       "generado_en": "2026-11-05",
       "sitio": "https://men-src.github.io/publicaciones-tramites"
+    },
+    {
+      "informe": "satisfaccion",
+      "periodo": "2024-07",
+      "titulo": {
+        "es": "Informe de Satisfacción Ciudadana",
+        "en": "Citizen Satisfaction Report"
+      },
+      "archivo": "informe-satisfaccion-2024-07.pdf",
+      "sitio": "https://men-src.github.io/publicaciones-satisfaccion",
+      "bytes": 347147,
+      "paginas": 13,
+      "corte": "2024-07-31",
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-13"
     },
     {
       "informe": "resoluciones",
@@ -2321,6 +2636,21 @@
       "sitio": "https://men-src.github.io/publicaciones-tramites"
     },
     {
+      "informe": "satisfaccion",
+      "periodo": "2024-06",
+      "titulo": {
+        "es": "Informe de Satisfacción Ciudadana",
+        "en": "Citizen Satisfaction Report"
+      },
+      "archivo": "informe-satisfaccion-2024-06.pdf",
+      "sitio": "https://men-src.github.io/publicaciones-satisfaccion",
+      "bytes": 342425,
+      "paginas": 13,
+      "corte": "2024-06-30",
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-13"
+    },
+    {
       "informe": "resoluciones",
       "periodo": "2024-06",
       "titulo": {
@@ -2395,6 +2725,21 @@
       "actualizacion_id": 81,
       "generado_en": "2026-11-05",
       "sitio": "https://men-src.github.io/publicaciones-tramites"
+    },
+    {
+      "informe": "satisfaccion",
+      "periodo": "2024-05",
+      "titulo": {
+        "es": "Informe de Satisfacción Ciudadana",
+        "en": "Citizen Satisfaction Report"
+      },
+      "archivo": "informe-satisfaccion-2024-05.pdf",
+      "sitio": "https://men-src.github.io/publicaciones-satisfaccion",
+      "bytes": 341460,
+      "paginas": 13,
+      "corte": "2024-05-31",
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-13"
     },
     {
       "informe": "resoluciones",
@@ -2473,6 +2818,21 @@
       "sitio": "https://men-src.github.io/publicaciones-tramites"
     },
     {
+      "informe": "satisfaccion",
+      "periodo": "2024-04",
+      "titulo": {
+        "es": "Informe de Satisfacción Ciudadana",
+        "en": "Citizen Satisfaction Report"
+      },
+      "archivo": "informe-satisfaccion-2024-04.pdf",
+      "sitio": "https://men-src.github.io/publicaciones-satisfaccion",
+      "bytes": 332044,
+      "paginas": 13,
+      "corte": "2024-04-30",
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-13"
+    },
+    {
       "informe": "resoluciones",
       "periodo": "2024-04",
       "titulo": {
@@ -2549,6 +2909,21 @@
       "sitio": "https://men-src.github.io/publicaciones-tramites"
     },
     {
+      "informe": "satisfaccion",
+      "periodo": "2024-03",
+      "titulo": {
+        "es": "Informe de Satisfacción Ciudadana",
+        "en": "Citizen Satisfaction Report"
+      },
+      "archivo": "informe-satisfaccion-2024-03.pdf",
+      "sitio": "https://men-src.github.io/publicaciones-satisfaccion",
+      "bytes": 328532,
+      "paginas": 13,
+      "corte": "2024-03-31",
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-13"
+    },
+    {
       "informe": "resoluciones",
       "periodo": "2024-03",
       "titulo": {
@@ -2623,6 +2998,21 @@
       "actualizacion_id": 81,
       "generado_en": "2026-11-05",
       "sitio": "https://men-src.github.io/publicaciones-tramites"
+    },
+    {
+      "informe": "satisfaccion",
+      "periodo": "2024-02",
+      "titulo": {
+        "es": "Informe de Satisfacción Ciudadana",
+        "en": "Citizen Satisfaction Report"
+      },
+      "archivo": "informe-satisfaccion-2024-02.pdf",
+      "sitio": "https://men-src.github.io/publicaciones-satisfaccion",
+      "bytes": 317198,
+      "paginas": 13,
+      "corte": "2024-02-29",
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-13"
     },
     {
       "informe": "resoluciones",
@@ -4170,6 +4560,21 @@
       "sitio": "https://men-src.github.io/publicaciones-legalizaciones"
     },
     {
+      "informe": "satisfaccion",
+      "periodo": "2022-04",
+      "titulo": {
+        "es": "Informe de Satisfacción Ciudadana",
+        "en": "Citizen Satisfaction Report"
+      },
+      "archivo": "informe-satisfaccion-2022-04.pdf",
+      "sitio": "https://men-src.github.io/publicaciones-satisfaccion",
+      "bytes": 337831,
+      "paginas": 13,
+      "corte": "2022-04-30",
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-13"
+    },
+    {
       "informe": "resoluciones",
       "periodo": "2022-04",
       "titulo": {
@@ -4214,6 +4619,21 @@
       "actualizacion_id": 81,
       "generado_en": "2026-11-05",
       "sitio": "https://men-src.github.io/publicaciones-legalizaciones"
+    },
+    {
+      "informe": "satisfaccion",
+      "periodo": "2022-03",
+      "titulo": {
+        "es": "Informe de Satisfacción Ciudadana",
+        "en": "Citizen Satisfaction Report"
+      },
+      "archivo": "informe-satisfaccion-2022-03.pdf",
+      "sitio": "https://men-src.github.io/publicaciones-satisfaccion",
+      "bytes": 337221,
+      "paginas": 13,
+      "corte": "2022-03-31",
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-13"
     },
     {
       "informe": "resoluciones",
@@ -4262,6 +4682,21 @@
       "sitio": "https://men-src.github.io/publicaciones-legalizaciones"
     },
     {
+      "informe": "satisfaccion",
+      "periodo": "2022-02",
+      "titulo": {
+        "es": "Informe de Satisfacción Ciudadana",
+        "en": "Citizen Satisfaction Report"
+      },
+      "archivo": "informe-satisfaccion-2022-02.pdf",
+      "sitio": "https://men-src.github.io/publicaciones-satisfaccion",
+      "bytes": 330704,
+      "paginas": 13,
+      "corte": "2022-02-28",
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-13"
+    },
+    {
       "informe": "resoluciones",
       "periodo": "2022-02",
       "titulo": {
@@ -4308,6 +4743,21 @@
       "sitio": "https://men-src.github.io/publicaciones-legalizaciones"
     },
     {
+      "informe": "satisfaccion",
+      "periodo": "2022-01",
+      "titulo": {
+        "es": "Informe de Satisfacción Ciudadana",
+        "en": "Citizen Satisfaction Report"
+      },
+      "archivo": "informe-satisfaccion-2022-01.pdf",
+      "sitio": "https://men-src.github.io/publicaciones-satisfaccion",
+      "bytes": 312549,
+      "paginas": 13,
+      "corte": "2022-01-31",
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-13"
+    },
+    {
       "informe": "resoluciones",
       "periodo": "2022-01",
       "titulo": {
@@ -4352,9 +4802,99 @@
       "actualizacion_id": 81,
       "generado_en": "2026-11-05",
       "sitio": "https://men-src.github.io/publicaciones-legalizaciones"
+    },
+    {
+      "informe": "satisfaccion",
+      "periodo": "2021-12",
+      "titulo": {
+        "es": "Informe de Satisfacción Ciudadana",
+        "en": "Citizen Satisfaction Report"
+      },
+      "archivo": "informe-satisfaccion-2021-12.pdf",
+      "sitio": "https://men-src.github.io/publicaciones-satisfaccion",
+      "bytes": 341768,
+      "paginas": 13,
+      "corte": "2021-12-31",
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-13"
+    },
+    {
+      "informe": "satisfaccion",
+      "periodo": "2021-11",
+      "titulo": {
+        "es": "Informe de Satisfacción Ciudadana",
+        "en": "Citizen Satisfaction Report"
+      },
+      "archivo": "informe-satisfaccion-2021-11.pdf",
+      "sitio": "https://men-src.github.io/publicaciones-satisfaccion",
+      "bytes": 341990,
+      "paginas": 13,
+      "corte": "2021-11-30",
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-13"
+    },
+    {
+      "informe": "satisfaccion",
+      "periodo": "2021-10",
+      "titulo": {
+        "es": "Informe de Satisfacción Ciudadana",
+        "en": "Citizen Satisfaction Report"
+      },
+      "archivo": "informe-satisfaccion-2021-10.pdf",
+      "sitio": "https://men-src.github.io/publicaciones-satisfaccion",
+      "bytes": 335155,
+      "paginas": 13,
+      "corte": "2021-10-31",
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-13"
+    },
+    {
+      "informe": "satisfaccion",
+      "periodo": "2021-09",
+      "titulo": {
+        "es": "Informe de Satisfacción Ciudadana",
+        "en": "Citizen Satisfaction Report"
+      },
+      "archivo": "informe-satisfaccion-2021-09.pdf",
+      "sitio": "https://men-src.github.io/publicaciones-satisfaccion",
+      "bytes": 332267,
+      "paginas": 13,
+      "corte": "2021-09-30",
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-13"
+    },
+    {
+      "informe": "satisfaccion",
+      "periodo": "2021-08",
+      "titulo": {
+        "es": "Informe de Satisfacción Ciudadana",
+        "en": "Citizen Satisfaction Report"
+      },
+      "archivo": "informe-satisfaccion-2021-08.pdf",
+      "sitio": "https://men-src.github.io/publicaciones-satisfaccion",
+      "bytes": 335741,
+      "paginas": 13,
+      "corte": "2021-08-31",
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-13"
+    },
+    {
+      "informe": "satisfaccion",
+      "periodo": "2021-07",
+      "titulo": {
+        "es": "Informe de Satisfacción Ciudadana",
+        "en": "Citizen Satisfaction Report"
+      },
+      "archivo": "informe-satisfaccion-2021-07.pdf",
+      "sitio": "https://men-src.github.io/publicaciones-satisfaccion",
+      "bytes": 326485,
+      "paginas": 13,
+      "corte": "2021-07-31",
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-13"
     }
   ],
-  "actualizado_en": "2026-11-11T10:13:13-05:00",
+  "actualizado_en": "2026-11-13T09:22:07-05:00",
   "portadas": {
     "pqrsdf": {
       "archivo": "pqrsdf/portada.png",
@@ -4397,6 +4937,13 @@
       "ancho": 1224,
       "alto": 942,
       "bytes": 78745
+    },
+    "satisfaccion": {
+      "archivo": "satisfaccion/portada.png",
+      "periodo": "2026-10",
+      "ancho": 1224,
+      "alto": 942,
+      "bytes": 77656
     }
   }
 }
