@@ -11,7 +11,7 @@
       },
       "archivo": "informe-general-pqrsdf-2026-T3.pdf",
       "sitio": "https://men-src.github.io/publicaciones-pqrsdf",
-      "bytes": 1894180,
+      "bytes": 1884689,
       "paginas": 46,
       "corte": "2026-09-30",
       "actualizacion_id": 108,
@@ -26,12 +26,12 @@
         "en": "PQRSDF General Report"
       },
       "archivo": "informe-general-pqrsdf-2026-T2.pdf",
-      "bytes": 1759139,
-      "paginas": 42,
+      "sitio": "https://men-src.github.io/publicaciones-pqrsdf",
+      "bytes": 1812953,
+      "paginas": 45,
       "corte": "2026-06-30",
-      "actualizacion_id": 81,
-      "generado_en": "2026-11-05",
-      "sitio": "https://men-src.github.io/publicaciones-pqrsdf"
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-23"
     },
     {
       "informe": "pqrsdf",
@@ -42,12 +42,12 @@
         "en": "PQRSDF General Report"
       },
       "archivo": "informe-general-pqrsdf-2026-T1.pdf",
-      "bytes": 1654602,
-      "paginas": 40,
+      "sitio": "https://men-src.github.io/publicaciones-pqrsdf",
+      "bytes": 1708649,
+      "paginas": 43,
       "corte": "2026-03-31",
-      "actualizacion_id": 81,
-      "generado_en": "2026-11-05",
-      "sitio": "https://men-src.github.io/publicaciones-pqrsdf"
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-23"
     },
     {
       "informe": "tramites",
@@ -968,12 +968,12 @@
         "en": "PQRSDF General Report"
       },
       "archivo": "informe-general-pqrsdf-2025-T4.pdf",
-      "bytes": 1918195,
-      "paginas": 41,
+      "sitio": "https://men-src.github.io/publicaciones-pqrsdf",
+      "bytes": 1974021,
+      "paginas": 44,
       "corte": "2025-12-31",
-      "actualizacion_id": 81,
-      "generado_en": "2026-11-05",
-      "sitio": "https://men-src.github.io/publicaciones-pqrsdf"
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-23"
     },
     {
       "informe": "pqrsdf",
@@ -984,12 +984,12 @@
         "en": "PQRSDF General Report"
       },
       "archivo": "informe-general-pqrsdf-2025-T3.pdf",
-      "bytes": 1851121,
-      "paginas": 41,
+      "sitio": "https://men-src.github.io/publicaciones-pqrsdf",
+      "bytes": 1904233,
+      "paginas": 44,
       "corte": "2025-09-30",
-      "actualizacion_id": 81,
-      "generado_en": "2026-11-05",
-      "sitio": "https://men-src.github.io/publicaciones-pqrsdf"
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-23"
     },
     {
       "informe": "pqrsdf",
@@ -1000,12 +1000,12 @@
         "en": "PQRSDF General Report"
       },
       "archivo": "informe-general-pqrsdf-2025-T2.pdf",
-      "bytes": 1771996,
-      "paginas": 41,
+      "sitio": "https://men-src.github.io/publicaciones-pqrsdf",
+      "bytes": 1822794,
+      "paginas": 44,
       "corte": "2025-06-30",
-      "actualizacion_id": 81,
-      "generado_en": "2026-11-05",
-      "sitio": "https://men-src.github.io/publicaciones-pqrsdf"
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-23"
     },
     {
       "informe": "pqrsdf",
@@ -1016,12 +1016,12 @@
         "en": "PQRSDF General Report"
       },
       "archivo": "informe-general-pqrsdf-2025-T1.pdf",
-      "bytes": 1621672,
-      "paginas": 40,
+      "sitio": "https://men-src.github.io/publicaciones-pqrsdf",
+      "bytes": 1668077,
+      "paginas": 43,
       "corte": "2025-03-31",
-      "actualizacion_id": 81,
-      "generado_en": "2026-11-05",
-      "sitio": "https://men-src.github.io/publicaciones-pqrsdf"
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-23"
     },
     {
       "informe": "tramites",
@@ -2019,12 +2019,12 @@
         "en": "PQRSDF General Report"
       },
       "archivo": "informe-general-pqrsdf-2024-T4.pdf",
-      "bytes": 1867677,
-      "paginas": 42,
+      "sitio": "https://men-src.github.io/publicaciones-pqrsdf",
+      "bytes": 1909886,
+      "paginas": 45,
       "corte": "2024-12-31",
-      "actualizacion_id": 81,
-      "generado_en": "2026-11-05",
-      "sitio": "https://men-src.github.io/publicaciones-pqrsdf"
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-23"
     },
     {
       "informe": "pqrsdf",
@@ -2035,12 +2035,12 @@
         "en": "PQRSDF General Report"
       },
       "archivo": "informe-general-pqrsdf-2024-T3.pdf",
-      "bytes": 1803143,
-      "paginas": 42,
+      "sitio": "https://men-src.github.io/publicaciones-pqrsdf",
+      "bytes": 1841178,
+      "paginas": 45,
       "corte": "2024-09-30",
-      "actualizacion_id": 81,
-      "generado_en": "2026-11-05",
-      "sitio": "https://men-src.github.io/publicaciones-pqrsdf"
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-23"
     },
     {
       "informe": "pqrsdf",
@@ -2051,12 +2051,12 @@
         "en": "PQRSDF General Report"
       },
       "archivo": "informe-general-pqrsdf-2024-T2.pdf",
-      "bytes": 1749755,
-      "paginas": 41,
+      "sitio": "https://men-src.github.io/publicaciones-pqrsdf",
+      "bytes": 1783942,
+      "paginas": 44,
       "corte": "2024-06-30",
-      "actualizacion_id": 81,
-      "generado_en": "2026-11-05",
-      "sitio": "https://men-src.github.io/publicaciones-pqrsdf"
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-23"
     },
     {
       "informe": "pqrsdf",
@@ -2067,12 +2067,12 @@
         "en": "PQRSDF General Report"
       },
       "archivo": "informe-general-pqrsdf-2024-T1.pdf",
-      "bytes": 1590753,
-      "paginas": 40,
+      "sitio": "https://men-src.github.io/publicaciones-pqrsdf",
+      "bytes": 1602133,
+      "paginas": 43,
       "corte": "2024-03-31",
-      "actualizacion_id": 81,
-      "generado_en": "2026-11-05",
-      "sitio": "https://men-src.github.io/publicaciones-pqrsdf"
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-23"
     },
     {
       "informe": "tramites",
@@ -3160,12 +3160,12 @@
         "en": "PQRSDF General Report"
       },
       "archivo": "informe-general-pqrsdf-2023-T4.pdf",
-      "bytes": 1707722,
-      "paginas": 40,
+      "sitio": "https://men-src.github.io/publicaciones-pqrsdf",
+      "bytes": 1712327,
+      "paginas": 41,
       "corte": "2023-12-31",
-      "actualizacion_id": 81,
-      "generado_en": "2026-11-05",
-      "sitio": "https://men-src.github.io/publicaciones-pqrsdf"
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-23"
     },
     {
       "informe": "pqrsdf",
@@ -3176,12 +3176,12 @@
         "en": "PQRSDF General Report"
       },
       "archivo": "informe-general-pqrsdf-2023-T3.pdf",
-      "bytes": 1650225,
-      "paginas": 41,
+      "sitio": "https://men-src.github.io/publicaciones-pqrsdf",
+      "bytes": 1654784,
+      "paginas": 42,
       "corte": "2023-09-30",
-      "actualizacion_id": 81,
-      "generado_en": "2026-11-05",
-      "sitio": "https://men-src.github.io/publicaciones-pqrsdf"
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-23"
     },
     {
       "informe": "pqrsdf",
@@ -3192,12 +3192,12 @@
         "en": "PQRSDF General Report"
       },
       "archivo": "informe-general-pqrsdf-2023-T2.pdf",
-      "bytes": 1578325,
-      "paginas": 39,
+      "sitio": "https://men-src.github.io/publicaciones-pqrsdf",
+      "bytes": 1582897,
+      "paginas": 40,
       "corte": "2023-06-30",
-      "actualizacion_id": 81,
-      "generado_en": "2026-11-05",
-      "sitio": "https://men-src.github.io/publicaciones-pqrsdf"
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-23"
     },
     {
       "informe": "pqrsdf",
@@ -3208,12 +3208,12 @@
         "en": "PQRSDF General Report"
       },
       "archivo": "informe-general-pqrsdf-2023-T1.pdf",
-      "bytes": 1385957,
-      "paginas": 39,
+      "sitio": "https://men-src.github.io/publicaciones-pqrsdf",
+      "bytes": 1390512,
+      "paginas": 40,
       "corte": "2023-03-31",
-      "actualizacion_id": 81,
-      "generado_en": "2026-11-05",
-      "sitio": "https://men-src.github.io/publicaciones-pqrsdf"
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-23"
     },
     {
       "informe": "tramites",
@@ -4136,12 +4136,12 @@
         "en": "PQRSDF General Report"
       },
       "archivo": "informe-general-pqrsdf-2022-T4.pdf",
-      "bytes": 1479520,
-      "paginas": 39,
+      "sitio": "https://men-src.github.io/publicaciones-pqrsdf",
+      "bytes": 1519385,
+      "paginas": 42,
       "corte": "2022-12-31",
-      "actualizacion_id": 81,
-      "generado_en": "2026-11-05",
-      "sitio": "https://men-src.github.io/publicaciones-pqrsdf"
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-23"
     },
     {
       "informe": "pqrsdf",
@@ -4152,12 +4152,12 @@
         "en": "PQRSDF General Report"
       },
       "archivo": "informe-general-pqrsdf-2022-T3.pdf",
-      "bytes": 1260322,
-      "paginas": 36,
+      "sitio": "https://men-src.github.io/publicaciones-pqrsdf",
+      "bytes": 1297572,
+      "paginas": 39,
       "corte": "2022-09-30",
-      "actualizacion_id": 81,
-      "generado_en": "2026-11-05",
-      "sitio": "https://men-src.github.io/publicaciones-pqrsdf"
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-23"
     },
     {
       "informe": "pqrsdf",
@@ -4168,12 +4168,12 @@
         "en": "PQRSDF General Report"
       },
       "archivo": "informe-general-pqrsdf-2022-T2.pdf",
-      "bytes": 1179274,
-      "paginas": 35,
+      "sitio": "https://men-src.github.io/publicaciones-pqrsdf",
+      "bytes": 1212613,
+      "paginas": 38,
       "corte": "2022-06-30",
-      "actualizacion_id": 81,
-      "generado_en": "2026-11-05",
-      "sitio": "https://men-src.github.io/publicaciones-pqrsdf"
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-23"
     },
     {
       "informe": "pqrsdf",
@@ -4184,12 +4184,12 @@
         "en": "PQRSDF General Report"
       },
       "archivo": "informe-general-pqrsdf-2022-T1.pdf",
-      "bytes": 973893,
-      "paginas": 30,
+      "sitio": "https://men-src.github.io/publicaciones-pqrsdf",
+      "bytes": 982214,
+      "paginas": 32,
       "corte": "2022-03-31",
-      "actualizacion_id": 81,
-      "generado_en": "2026-11-05",
-      "sitio": "https://men-src.github.io/publicaciones-pqrsdf"
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-23"
     },
     {
       "informe": "resoluciones",
@@ -4894,7 +4894,7 @@
       "generado_en": "2026-11-13"
     }
   ],
-  "actualizado_en": "2026-11-23T16:35:38-05:00",
+  "actualizado_en": "2026-11-23T17:05:01-05:00",
   "portadas": {
     "pqrsdf": {
       "archivo": "pqrsdf/portada.png",
