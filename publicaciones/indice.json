@@ -10,12 +10,12 @@
         "en": "PQRSDF General Report"
       },
       "archivo": "informe-general-pqrsdf-2026-T3.pdf",
-      "bytes": 1829364,
-      "paginas": 43,
+      "sitio": "https://men-src.github.io/publicaciones-pqrsdf",
+      "bytes": 1894180,
+      "paginas": 46,
       "corte": "2026-09-30",
-      "actualizacion_id": 81,
-      "generado_en": "2026-11-05",
-      "sitio": "https://men-src.github.io/publicaciones-pqrsdf"
+      "actualizacion_id": 108,
+      "generado_en": "2026-11-23"
     },
     {
       "informe": "pqrsdf",
@@ -4894,7 +4894,7 @@
       "generado_en": "2026-11-13"
     }
   ],
-  "actualizado_en": "2026-11-13T09:22:07-05:00",
+  "actualizado_en": "2026-11-23T16:35:38-05:00",
   "portadas": {
     "pqrsdf": {
       "archivo": "pqrsdf/portada.png",
